@@ -3,17 +3,17 @@
 
 | PASS | FAIL | Build # | Timestamp |
 | :---: | :---: | :--- | :--- |
-| | | | |
+| ✅ | | 0.6.1 r6 | 2026-10-16T17:49:58+00:00 |
 
 | Pass |          ID           | Action | Reference |
 | :---: | :------------------- | :-------- | :------- |
-|  | TST.LIB.1.0.0.0 | Complete: | [[TST.SET.2.2.1](../../SET/TST.SET.2_System#tst.set.2.2.1) Library DB Reset] |
-|  | TST.LIB.1.0.0.1 | Navigate: | Library/+Add Music/Browse Files  |
-|  | TST.LIB.1.0.0.2 | File Browse: | music/tag/magic-F-123.mp3 |
-|  | TST.LIB.1.0.0.3 | Verify: | ![[UI.LIB.9.0.0] New](../../../UI/LIB/UI.LIB.9.0.0.bmp)<br>[[UI.LIB.9.0.0](../../../UI/LIB/UI.LIB.Library_Menu.md#ui.lib.9.0.0) New Import Options] appears |
-|  | TST.LIB.1.0.0.4 | Select: | ![[UI.LIB.9.0.0.0] New](../../../UI/LIB/UI.LIB.9.0.0.0.bmp)<br>[[UI.LIB.9.0.0.0](../../../UI/LIB/UI.LIB.Library_Menu.md#ui.lib.9.0.0.0) Start Button] |
-|  | TST.LIB.1.0.0.5 | Navigate: | Library/Artists |
-|  | TST.LIB.1.0.0.6 | Verify: | `[Zero QA Artist - Magic]` appears only once in Artists Menu [[UI.LIB.3](../../../UI/LIB/UI.LIB.Library_Menu.md#ui.lib.3)] | 
+| ✅ | TST.LIB.1.0.0.0 | Complete: | [[TST.SET.2.2.1](../../SET/TST.SET.2_System#tst.set.2.2.1) Library DB Reset] |
+| ✅ | TST.LIB.1.0.0.1 | Navigate: | Library/+Add Music/Browse Files  |
+| ✅ | TST.LIB.1.0.0.2 | File Browse: | music/tag/magic-F-123.mp3 |
+| ✅ | TST.LIB.1.0.0.3 | Verify: | ![[UI.LIB.9.0.0] New](../../../UI/LIB/UI.LIB.9.0.0.bmp)<br>[[UI.LIB.9.0.0](../../../UI/LIB/UI.LIB.Library_Menu.md#ui.lib.9.0.0) New Import Options] appears |
+| ✅ | TST.LIB.1.0.0.4 | Select: | ![[UI.LIB.9.0.0.0] New](../../../UI/LIB/UI.LIB.9.0.0.0.bmp)<br>[[UI.LIB.9.0.0.0](../../../UI/LIB/UI.LIB.Library_Menu.md#ui.lib.9.0.0.0) Start Button] |
+| ✅ | TST.LIB.1.0.0.5 | Navigate: | Library/Artists |
+| ✅ | TST.LIB.1.0.0.6 | Verify: | `[Zero QA Artist - Magic]` appears only once in Artists Menu [[UI.LIB.3](../../../UI/LIB/UI.LIB.Library_Menu.md#ui.lib.3)] | 
 
 | Notes | 
 | :--- |
