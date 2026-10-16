@@ -1,9 +1,9 @@
 #### TST.LIB.1.0.0
 **New File - No Errors - Empty Library**
 
-| PASS | FAIL |
-| :---: | :---: | 
-|  |  |
+| PASS | FAIL | Build # | Timestamp |
+| :---: | :---: | :--- | :--- |
+| | | | |
 
 | Pass |          ID           | Action | Reference |
 | :---: | :------------------- | :-------- | :------- |
@@ -22,9 +22,9 @@
 #### TST.LIB.1.0.1
 **New File - No Errors - Populated Library**
 
-| PASS | FAIL |
-| :---: | :---: | 
-|  |  |
+| PASS | FAIL | Build # | Timestamp |
+| :---: | :---: | :--- | :--- |
+| | | | |
 
 | Pass |          ID           | Action | Reference |
 | :---: | :------------------- | :-------- | :------- |
@@ -44,9 +44,9 @@
 #### TST.LIB.1.0.2
 **Existing file - No Errors - BPM from File ID3 Tag**
 
-| PASS | FAIL |
-| :---: | :---: | 
-|  |  |
+| PASS | FAIL | Build # | Timestamp |
+| :---: | :---: | :--- | :--- |
+| | | | |
 
 | Pass |          ID           | Action | Reference |
 | :---: | :------------------- | :-------- | :------- |
@@ -70,9 +70,9 @@
 #### TST.LIB.1.0.3
 **Existing file - No Errors - BPM from Library**
 
-| PASS | FAIL |
-| :---: | :---: | 
-|  |  |
+| PASS | FAIL | Build # | Timestamp |
+| :---: | :---: | :--- | :--- |
+| | | | |
 
 | Pass |          ID           | Action | Reference |
 | :---: | :------------------- | :-------- | :------- |
@@ -96,9 +96,9 @@
 #### TST.LIB.1.0.4
 **Existing file - No Errors - Key from File ID3 Tag**
 
-| PASS | FAIL |
-| :---: | :---: | 
-|  |  |
+| PASS | FAIL | Build # | Timestamp |
+| :---: | :---: | :--- | :--- |
+| | | | |
 
 | Pass |          ID           | Action | Reference |
 | :---: | :------------------- | :-------- | :------- |
@@ -125,9 +125,9 @@
 #### TST.LIB.1.0.5
 **Existing file - No Errors - Key from Library**
 
-| PASS | FAIL |
-| :---: | :---: | 
-|  |  |
+| PASS | FAIL | Build # | Timestamp |
+| :---: | :---: | :--- | :--- |
+| | | | |
 
 | Pass |          ID           | Action | Reference |
 | :---: | :------------------- | :-------- | :------- |
@@ -154,9 +154,9 @@
 #### TST.LIB.1.0.6
 **New file - Error - Bad Sample Rate**
 
-| PASS | FAIL |
-| :---: | :---: | 
-|  |  |
+| PASS | FAIL | Build # | Timestamp |
+| :---: | :---: | :--- | :--- |
+| | | | |
 
 | Pass |          ID           | Action | Reference |
 | :---: | :------------------- | :-------- | :------- |
@@ -178,9 +178,9 @@
 #### TST.LIB.1.0.7
 **New file - Error - Bad Codec/Format**
 
-| PASS | FAIL |
-| :---: | :---: | 
-|  |  |
+| PASS | FAIL | Build # | Timestamp |
+| :---: | :---: | :--- | :--- |
+| | | | |
 
 | Pass |          ID           | Action | Reference |
 | :---: | :------------------- | :-------- | :------- |
