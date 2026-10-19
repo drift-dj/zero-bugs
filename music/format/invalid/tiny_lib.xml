@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DJ_PLAYLISTS Version="1.0.0">
+  <PRODUCT Name="rekordbox" Version="6.8.5" Company="AlphaTheta"/>
+  <COLLECTION Entries="8">
+	<TRACK TrackID="176853337" Name="Bullet Proof Soul" Artist="Sade" Composer=""
+           Album="Love Deluxe" Grouping="" Genre="" Kind="MP3 File" Size="12907740"
+           TotalTime="322" DiscNumber="0" TrackNumber="8" Year="1992" AverageBpm="79.11"
+           DateAdded="2024-10-01" BitRate="320" SampleRate="44100" Comments=""
+           PlayCount="1" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Picnic/music/fall-24/bulletproof%20soul.mp3"
+           Remixer="" Tonality="Bm" Label="" Mix="">
+      <TEMPO Inizio="0.630" Bpm="79.11" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="61.304" Bpm="79.11" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="146.248" Bpm="79.11" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="219.057" Bpm="79.11" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="291.866" Bpm="79.11" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="285.797" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="Loop p1" Type="4" Start="67.371" End="70.405" Num="-1"/>
+      <POSITION_MARK Name="Beat part" Type="4" Start="285.798" End="297.933" Num="-1"/>
+      <POSITION_MARK Name="" Type="4" Start="67.371" End="68.888" Num="-1"/>
+      <POSITION_MARK Name="" Type="4" Start="67.371" End="68.888" Num="2" Red="255"
+                     Green="140" Blue="0"/>
+      <POSITION_MARK Name="" Type="4" Start="0.630" End="2.147" Num="0" Red="255"
+                     Green="140" Blue="0"/>
+    </TRACK>
+    <TRACK TrackID="224032497" Name="Inter Funk" Artist="A Guy Called Gerald"
+           Composer="" Album="DJ Pierre Presents Acid 88" Grouping="" Genre=""
+           Kind="MP3 File" Size="9657086" TotalTime="241" DiscNumber="0"
+           TrackNumber="4" Year="2019" AverageBpm="125.00" DateAdded="2024-10-01"
+           BitRate="320" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           Location="file://localhost/Users/jaredwheeler/Documents/Picnic/music/fall-24/inter-funk.mp3"
+           Remixer="" Tonality="D" Label="" Mix="">
+      <TEMPO Inizio="0.102" Bpm="125.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="37.063" Bpm="125.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="83.144" Bpm="125.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="128.745" Bpm="125.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="174.826" Bpm="125.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="220.907" Bpm="125.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="4" Start="105.704" End="113.384" Num="-1"/>
+      <POSITION_MARK Name="" Type="4" Start="105.704" End="113.384" Num="0" Red="255"
+                     Green="140" Blue="0"/>
+      <POSITION_MARK Name="" Type="0" Start="48.103" Num="1" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="176.746" Num="-1"/>
+      <POSITION_MARK Name="" Type="4" Start="176.746" End="184.426" Num="-1"/>
+    </TRACK>
+	<TRACK TrackID="67937974" Name="Magic" Artist="Mick Smiley" Composer=""
+		   Album="Ghostbusters OST" Grouping="" Genre="" Kind="MP3 File"
+		   Size="10287136" TotalTime="257" DiscNumber="0" TrackNumber="7"
+		   Year="1984" AverageBpm="97.44" DateAdded="2024-10-01" BitRate="320"
+		   SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Picnic/music/fall-24/magic.mp3"
+		   Remixer="" Tonality="Em" Label="" Mix="">
+	  <TEMPO Inizio="0.344" Bpm="97.44" Metro="4/4" Battito="2"/>
+	  <POSITION_MARK Name="" Type="0" Start="140.121" Num="0" Red="40" Green="226"
+					 Blue="20"/>
+	  <POSITION_MARK Name="" Type="0" Start="159.825" Num="1" Red="40" Green="226"
+					 Blue="20"/>
+	  <POSITION_MARK Name="" Type="0" Start="201.674" Num="2" Red="40" Green="226"
+					 Blue="20"/>
+	</TRACK>
+	<TRACK TrackID="161372917" Name="No More Words" Artist="Yello" Composer=""
+		   Album="You Gotta Say Yes" Grouping="" Genre="" Kind="MP3 File"
+		   Size="9561980" TotalTime="239" DiscNumber="0" TrackNumber="3"
+		   Year="1983" AverageBpm="117.94" DateAdded="2024-10-01" BitRate="320"
+		   SampleRate="44100" Comments="" PlayCount="1" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Picnic/music/fall-24/no%20more%20words.mp3"
+		   Remixer="" Tonality="Em" Label="" Mix="">
+	  <TEMPO Inizio="0.296" Bpm="117.94" Metro="4/4" Battito="1"/>
+	  <POSITION_MARK Name="" Type="0" Start="6.401" Num="0" Red="40" Green="226" Blue="20"/>
+	  <POSITION_MARK Name="" Type="0" Start="161.057" Num="1" Red="40" Green="226"
+					 Blue="20"/>
+	</TRACK>
+	<TRACK TrackID="220564605" Name="Remember When" Artist="K Hand" Composer=""
+		   Album="Tools Vol. 1" Grouping="" Genre="" Kind="MP3 File" Size="16599364"
+		   TotalTime="414" DiscNumber="0" TrackNumber="1" Year="2018" AverageBpm="126.00"
+		   DateAdded="2024-10-01" BitRate="320" SampleRate="44100" Comments=""
+		   PlayCount="1" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Picnic/music/fall-24/remember%20when.mp3"
+		   Remixer="" Tonality="Am" Label="" Mix="">
+	  <TEMPO Inizio="0.208" Bpm="126.00" Metro="4/4" Battito="3"/>
+	  <TEMPO Inizio="0.685" Bpm="126.00" Metro="4/4" Battito="4"/>
+	  <TEMPO Inizio="16.876" Bpm="126.00" Metro="4/4" Battito="2"/>
+	  <TEMPO Inizio="43.067" Bpm="126.00" Metro="4/4" Battito="1"/>
+	  <TEMPO Inizio="71.639" Bpm="126.00" Metro="4/4" Battito="1"/>
+	  <TEMPO Inizio="97.830" Bpm="126.00" Metro="4/4" Battito="4"/>
+	  <TEMPO Inizio="124.021" Bpm="126.00" Metro="4/4" Battito="3"/>
+	  <TEMPO Inizio="152.593" Bpm="126.00" Metro="4/4" Battito="3"/>
+	  <TEMPO Inizio="178.784" Bpm="126.00" Metro="4/4" Battito="2"/>
+	  <TEMPO Inizio="204.975" Bpm="126.00" Metro="4/4" Battito="1"/>
+	  <TEMPO Inizio="233.547" Bpm="126.00" Metro="4/4" Battito="1"/>
+	  <TEMPO Inizio="259.738" Bpm="126.00" Metro="4/4" Battito="4"/>
+	  <TEMPO Inizio="285.929" Bpm="126.00" Metro="4/4" Battito="3"/>
+	  <TEMPO Inizio="312.120" Bpm="126.00" Metro="4/4" Battito="2"/>
+	  <TEMPO Inizio="338.311" Bpm="126.00" Metro="4/4" Battito="1"/>
+	  <TEMPO Inizio="364.502" Bpm="126.00" Metro="4/4" Battito="4"/>
+	  <TEMPO Inizio="390.693" Bpm="126.00" Metro="4/4" Battito="3"/>
+	</TRACK>
+	<TRACK TrackID="254370719" Name="The Flat Earth" Artist="Thomas Dolby"
+		   Composer="" Album="The Flat Earth" Grouping="" Genre="" Kind="MP3 File"
+		   Size="15922279" TotalTime="398" DiscNumber="0" TrackNumber="2"
+		   Year="1984" AverageBpm="116.90" DateAdded="2024-10-01" BitRate="320"
+		   SampleRate="44100" Comments="" PlayCount="2" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Picnic/music/fall-24/the%20flat%20earth.mp3"
+		   Remixer="" Tonality="Db" Label="" Mix="">
+	  <TEMPO Inizio="0.326" Bpm="116.90" Metro="4/4" Battito="1"/>
+	  <TEMPO Inizio="52.164" Bpm="116.90" Metro="4/4" Battito="2"/>
+	  <TEMPO Inizio="110.161" Bpm="116.90" Metro="4/4" Battito="3"/>
+	  <TEMPO Inizio="161.999" Bpm="116.90" Metro="4/4" Battito="4"/>
+	  <TEMPO Inizio="213.837" Bpm="116.90" Metro="4/4" Battito="1"/>
+	  <TEMPO Inizio="265.675" Bpm="116.90" Metro="4/4" Battito="2"/>
+	  <TEMPO Inizio="323.159" Bpm="116.90" Metro="4/4" Battito="2"/>
+	  <TEMPO Inizio="366.785" Bpm="116.90" Metro="4/4" Battito="3"/>
+	  <POSITION_MARK Name="" Type="0" Start="41.373" Num="0" Red="40" Green="226"
+					 Blue="20"/>
+	</TRACK>
+	<TRACK TrackID="267218072" Name="Thieves In The Night" Artist="Black Star"
+		   Composer="" Album="Black Star" Grouping="" Genre="Hip Hop" Kind="MP3 File"
+		   Size="12066624" TotalTime="301" DiscNumber="0" TrackNumber="12"
+		   Year="1998" AverageBpm="91.97" DateAdded="2024-10-01" BitRate="320"
+		   SampleRate="44100" Comments="" PlayCount="2" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Picnic/music/fall-24/theives%20in%20the%20night.mp3"
+		   Remixer="" Tonality="F#m" Label="" Mix="">
+	  <TEMPO Inizio="0.388" Bpm="91.97" Metro="4/4" Battito="1"/>
+	  <TEMPO Inizio="6.260" Bpm="91.97" Metro="4/4" Battito="2"/>
+	  <TEMPO Inizio="63.669" Bpm="91.97" Metro="4/4" Battito="2"/>
+	  <TEMPO Inizio="141.302" Bpm="91.97" Metro="4/4" Battito="1"/>
+	  <TEMPO Inizio="218.935" Bpm="91.97" Metro="4/4" Battito="4"/>
+	  <POSITION_MARK Name="" Type="0" Start="0.393" Num="0" Red="40" Green="226" Blue="20"/>
+	  <POSITION_MARK Name="" Type="0" Start="209.149" Num="1" Red="40" Green="226"
+					 Blue="20"/>
+	</TRACK>
+	<TRACK TrackID="196475026" Name="Tom&apos;s Diner" Artist="Suzanne Vega, DNA"
+		   Composer="" Album="Tom&apos;s Album" Grouping="" Genre="" Kind="MP3 File"
+		   Size="9142951" TotalTime="228" DiscNumber="0" TrackNumber="13"
+		   Year="0" AverageBpm="99.13" DateAdded="2024-10-01" BitRate="320"
+		   SampleRate="44100" Comments="" PlayCount="2" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Picnic/music/fall-24/toms%20diner.mp3"
+		   Remixer="" Tonality="Dbm" Label="" Mix="">
+	  <TEMPO Inizio="0.038" Bpm="99.13" Metro="4/4" Battito="4"/>
+	  <TEMPO Inizio="98.090" Bpm="99.13" Metro="4/4" Battito="2"/>
+	  <TEMPO Inizio="205.221" Bpm="99.13" Metro="4/4" Battito="3"/>
+	  <POSITION_MARK Name="" Type="0" Start="0.634" Num="0" Red="40" Green="226" Blue="20"/>
+	  <POSITION_MARK Name="" Type="0" Start="15.169" Num="1" Red="40" Green="226"
+					 Blue="20"/>
+	</TRACK>
+  </COLLECTION>
+  <PLAYLISTS>
+	<NODE Type="0" Name="ROOT" Count="15">
+	  <NODE Name="Tech House" Type="1" KeyType="0" Entries="4">
+		<TRACK Key="176853337"/>
+		<TRACK Key="224032497"/>
+		<TRACK Key="67937974"/>
+		<TRACK Key="161372917"/>
+	  </NODE>
+	</NODE>
+  </PLAYLISTS>
+</DJ_PLAYLISTS>

@@ -1,9 +1,9 @@
 #### TST.SET.2.1
 **Reboot**
 
-| PASS | FAIL |
-| :---: | :---: | 
-|  |  |
+| PASS | FAIL | Build # | Timestamp | User |
+| :---: | :---: | :--- | :--- | :--- |
+| | | | | |
 
 | Pass |          ID           | Action | Reference |
 | :---: | :------------------- | :-------- | :------- |
@@ -18,9 +18,9 @@
 #### TST.SET.2.2.0
 **Factory Reset**
 
-| PASS | FAIL |
-| :---: | :---: | 
-|  |  |
+| PASS | FAIL | Build # | Timestamp | User |
+| :---: | :---: | :--- | :--- | :--- |
+| | | | | |
 
 | Pass |          ID           | Action | Reference |
 | :---: | :------------------- | :-------- | :------- |
@@ -32,9 +32,9 @@
 #### TST.SET.2.2.1
 **Library DB Reset**
 
-| PASS | FAIL |
-| :---: | :---: | 
-|  |  |
+| PASS | FAIL | Build # | Timestamp | User |
+| :---: | :---: | :--- | :--- | :--- |
+| | | | | |
 
 | Pass |          ID           | Action | Reference |
 | :---: | :------------------- | :-------- | :------- |
@@ -46,9 +46,9 @@
 #### TST.SET.2.2.2
 **User Settings Reset**
 
-| PASS | FAIL |
-| :---: | :---: | 
-|  |  |
+| PASS | FAIL | Build # | Timestamp | User |
+| :---: | :---: | :--- | :--- | :--- |
+| | | | | |
 
 | Pass |          ID           | Action | Reference |
 | :---: | :------------------- | :-------- | :------- |
@@ -60,9 +60,9 @@
 #### TST.SET.2.2.3
 **Mixer Settings Reset**
 
-| PASS | FAIL |
-| :---: | :---: | 
-|  |  |
+| PASS | FAIL | Build # | Timestamp | User |
+| :---: | :---: | :--- | :--- | :--- |
+| | | | | |
 
 | Pass |          ID           | Action | Reference |
 | :---: | :------------------- | :-------- | :------- |
@@ -74,9 +74,9 @@
 #### TST.SET.2.2.4
 **USB State Reset**
 
-| PASS | FAIL |
-| :---: | :---: | 
-|  |  |
+| PASS | FAIL | Build # | Timestamp | User |
+| :---: | :---: | :--- | :--- | :--- |
+| | | | | |
 
 | Pass |          ID           | Action | Reference |
 | :---: | :------------------- | :-------- | :------- |
@@ -88,9 +88,9 @@
 #### TST.SET.2.2.5
 **USB Device DB Reset**
 
-| PASS | FAIL |
-| :---: | :---: | 
-|  |  |
+| PASS | FAIL | Build # | Timestamp | User |
+| :---: | :---: | :--- | :--- | :--- |
+| | | | | |
 
 | Pass |          ID           | Action | Reference |
 | :---: | :------------------- | :-------- | :------- |

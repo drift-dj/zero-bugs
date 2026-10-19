@@ -4,32 +4,107 @@
 
 ## Library
 
-### TST.LIB.1 Import
+### TST.LIB.1 Playlists Menu
+### TST.LIB.2 Artists Menu
+### TST.LIB.3 Genre Menu
+### TST.LIB.4 BPM Menu
+### TST.LIB.5 Key Menu
+### TST.LIB.6 Errors Menu
+### TST.LIB.7 Add Music Menu
 
-#### TST.LIB.1.0 Import Local - Single File
-- [TST.LIB.1.0.0](TST/LIB/1_Import/TST.LIB.1.0_Import_Local_Single_File.md#tst.lib.1.0.0) New File - No Errors - Empty Library
-- [TST.LIB.1.0.1](TST/LIB/1_Import/TST.LIB.1.0_Import_Local_Single_File.md#tst.lib.1.0.1) New File - No Errors - Populated Library
-- [TST.LIB.1.0.2](TST/LIB/1_Import/TST.LIB.1.0_Import_Local_Single_File.md#tst.lib.1.0.2) Existing file - No Errors - BPM from File ID3 Tag
-- [TST.LIB.1.0.3](TST/LIB/1_Import/TST.LIB.1.0_Import_Local_Single_File.md#tst.lib.1.0.3) Existing file - No Errors - BPM from Library
-- [TST.LIB.1.0.4](TST/LIB/1_Import/TST.LIB.1.0_Import_Local_Single_File.md#tst.lib.1.0.4) Existing file - No Errors - Key from File ID3 Tag
-- [TST.LIB.1.0.5](TST/LIB/1_Import/TST.LIB.1.0_Import_Local_Single_File.md#tst.lib.1.0.5) Existing file - No Errors - Key from Library
-- [TST.LIB.1.0.6](TST/LIB/1_Import/TST.LIB.1.0_Import_Local_Single_File.md#tst.lib.1.0.6) New file - Error - Bad Sample Rate
-- [TST.LIB.1.0.7](TST/LIB/1_Import/TST.LIB.1.0_Import_Local_Single_File.md#tst.lib.1.0.7) New file - Error - Bad Codec/Format
-#### TST.LIB.1.1 Import USB Drive - Single File
-#### TST.LIB.1.2 Import Local - File Directory
-#### TST.LIB.1.3 Import USB Drive - File Directory
-#### TST.LIB.1.4 Import Local - Rekordbox XML
-#### TST.LIB.1.5 Import USB Drive - Rekordbox XML
+### TST.LIB.8 Song Edit
+- [TST.LIB.8.0](TST/LIB/8_Song_Edit/TST.LIB.8_Song_Edit.md#TST.LIB.8.0) Remove Song
 
-### TST.LIB.2 Playlists Menu
-### TST.LIB.3 Artists Menu
-### TST.LIB.4 Genre Menu
-### TST.LIB.5 BPM Menu
-### TST.LIB.6 Key Menu
-### TST.LIB.7 Errors Menu
-### TST.LIB.8 Add Music Menu
+### TST.LIB.9 Import
 
-## Settings
+#### TST.LIB.9.0 Import Local - Single File
+- [TST.LIB.9.0.0](TST/LIB/9_Import/TST.LIB.9.0_Import_Local_Single_File.md#TST.LIB.9.0.0) New File - Empty Library
+- [TST.LIB.9.0.1](TST/LIB/9_Import/TST.LIB.9.0_Import_Local_Single_File.md#TST.LIB.9.0.1) New File - Populated Library
+- [TST.LIB.9.0.2](TST/LIB/9_Import/TST.LIB.9.0_Import_Local_Single_File.md#TST.LIB.9.0.2) Existing file - Update BPM/Key
+- [TST.LIB.9.0.3](TST/LIB/9_Import/TST.LIB.9.0_Import_Local_Single_File.md#TST.LIB.9.0.3) Existing file - Ignore BPM/Key
+- [TST.LIB.9.0.4](TST/LIB/9_Import/TST.LIB.9.0_Import_Local_Single_File.md#TST.LIB.9.0.4) New file - Error - Unsupported Sample Rate
+- [TST.LIB.9.0.5](TST/LIB/9_Import/TST.LIB.9.0_Import_Local_Single_File.md#TST.LIB.9.0.5) New file - Error - Unsupported Codec
+- [TST.LIB.9.0.6](TST/LIB/9_Import/TST.LIB.9.0_Import_Local_Single_File.md#TST.LIB.9.0.6) New file - Error - Unsupported Filetype
+- [TST.LIB.9.0.7](TST/LIB/9_Import/TST.LIB.9.0_Import_Local_Single_File.md#TST.LIB.9.0.7) Existing File - Overwrite Error w/Valid File
+- [TST.LIB.9.0.8](TST/LIB/9_Import/TST.LIB.9.0_Import_Local_Single_File.md#TST.LIB.9.0.8) Existing File - Change Path
+
+#### TST.LIB.9.1 Import USB Drive - Single File
+
+#### TST.LIB.9.2 Import Local - File Directory
+- [TST.LIB.9.2.0](TST/LIB/9_Import/TST.LIB.9.2_Import_Local_File_Dir.md#TST.LIB.9.2.0) Dir of New Files
+- [TST.LIB.9.2.1](TST/LIB/9_Import/TST.LIB.9.2_Import_Local_File_Dir.md#TST.LIB.9.2.1) Dir of Existing Files - Skip
+- [TST.LIB.9.2.2](TST/LIB/9_Import/TST.LIB.9.2_Import_Local_File_Dir.md#TST.LIB.9.2.2) Dir of Existing Files - Overwrite
+- [TST.LIB.9.2.3](TST/LIB/9_Import/TST.LIB.9.2_Import_Local_File_Dir.md#TST.LIB.9.2.3) Dir of Existing Files - Create New
+- [TST.LIB.9.2.4](TST/LIB/9_Import/TST.LIB.9.2_Import_Local_File_Dir.md#TST.LIB.9.2.4) Dir of Mixed New/Existing Files
+- [TST.LIB.9.2.5](TST/LIB/9_Import/TST.LIB.9.2_Import_Local_File_Dir.md#TST.LIB.9.2.5) Dir of Mixed New/Existing Files - Errors
+
+
+
+
+#### TST.LIB.9.3 Import USB Drive - File Directory
+
+#### TST.LIB.9.4 Import Local - Rekordbox XML
+- New Lib XML
+- Existing Lib XML
+- Mixed New/Existing Lib XML
+
+#### TST.LIB.9.5 Import USB Drive - Rekordbox XML
+
+
+
+### TST.LIB.10 ID3 Tags
+- [TST.LIB.10.0](TST/LIB/10_Tags/TST.LIB.9_Tags.md#tst.lib.9.0) No Tags (t0)
+- [TST.LIB.10.1](TST/LIB/9_Tags/TST.LIB.9_Tags.md#tst.lib.9.1) Artist (t1)
+- [TST.LIB.10.2](TST/LIB/9_Tags/TST.LIB.9_Tags.md#tst.lib.9.2) Title (t2)
+- [TST.LIB.10.3](TST/LIB/9_Tags/TST.LIB.9_Tags.md#tst.lib.9.3) Artist+Title (t3)
+- [TST.LIB.10.4](TST/LIB/9_Tags/TST.LIB.9_Tags.md#tst.lib.9.4) Playback Metadata (t4)
+- [TST.LIB.10.5](TST/LIB/9_Tags/TST.LIB.9_Tags.md#tst.lib.9.5) BPM Errata 1 (t5)
+
+### TST.LIB.11 File Formats
+- [TST.LIB.10.0](TST/LIB/10_File_Formats/TST.LIB.10_File_Formats.md#tst.lib.10.0) MP3
+    - Import Single
+    - Import Dir
+    - Playback
+        - Song Edit
+        - Scrub
+        - Loop
+- [TST.LIB.10.1](TST/LIB/10_File_Formats/TST.LIB.10_File_Formats.md#tst.lib.10.1) WAV
+    - Import Single
+    - Import Dir
+    - Playback
+        - Song Edit
+        - Scrub
+        - Loop
+- [TST.LIB.10.2](TST/LIB/10_File_Formats/TST.LIB.10_File_Formats.md#tst.lib.10.2) AIF
+    - Import Single
+    - Import Dir
+    - Playback
+        - Song Edit
+        - Scrub
+        - Loop
+- [TST.LIB.10.3](TST/LIB/10_File_Formats/TST.LIB.10_File_Formats.md#tst.lib.10.3) FLAC
+    - Import Single
+    - Import Dir
+    - Playback
+        - Song Edit
+        - Scrub
+        - Loop
+- [TST.LIB.10.4](TST/LIB/10_File_Formats/TST.LIB.10_File_Formats.md#tst.lib.10.4) AAC
+    - Import Single
+    - Import Dir
+    - Playback
+        - Song Edit
+        - Scrub
+        - Loop
+- Mixed Import
+
+## Playback
+
+## Mixer Panel
+
+## USB Panel
+
+## Settings Panel
 
 ### TST.SET.1 UI
 - [TST.SET.1.0](TST/SET/TST.SET.1_UI.md#tst.set.1.0) Brightness

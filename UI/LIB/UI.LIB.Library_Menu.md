@@ -92,8 +92,9 @@ Song titles should render in white-on-black in regular, mixed-case 5 px font. Te
 ## UI.LIB.9 Import Modal
 ### UI.LIB.9.0 Single File Options
 #### UI.LIB.9.0.0
-![Artists Menu](UI.LIB.9.0.0.bmp) **New Import Options**
-XXX
+![Artists Menu](UI.LIB.9.0.0.bmp) **New Single File Import Options**
+
+
 ##### UI.LIB.9.0.0.0
 ![Artists Menu](UI.LIB.9.0.0.0.bmp) **Start Button**
 XXX
@@ -107,9 +108,13 @@ XXX
 #### UI.LIB.9.0.1 New Sample Rate Error
 
 #### UI.LIB.9.0.2 New Format Error
-#### UI.LIB.9.0.3 Exists
+
+#### UI.LIB.9.0.3 File Update
+
 #### UI.LIB.9.0.4 Exists Sample Rate Error
+
 #### UI.LIB.9.0.5 Exists Format Error
+
 ### UI.LIB.9.1 File Directory Options
 ### UI.LIB.9.2 Rekordbox XML Flow
 #### UI.LIB.9.2.0 Select RB XML File Dialog
