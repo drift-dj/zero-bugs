@@ -30,7 +30,7 @@ Cycle through all the UI permutations of merge settings and data sources to veri
 
 
 ## TST.LIB.9.2.1
-**Dir of New Files**
+**Dir of New Files**<br>
 Import a directory of audio files into an empty Library
 
 | PASS | FAIL | Build # | Timestamp | User |
@@ -52,7 +52,7 @@ Import a directory of audio files into an empty Library
 |  |
 
 ## TST.LIB.9.2.2
-**Dir of Existing Files - Skip**
+**Dir of Existing Files - Skip**<br>
 Import a directory of pre-existing audio files -- skip existing files
 
 | PASS | FAIL | Build # | Timestamp | User |
@@ -76,7 +76,7 @@ Import a directory of pre-existing audio files -- skip existing files
 |  |
 
 ## TST.LIB.9.2.3
-**Dir of Existing Files - Overwrite**
+**Dir of Existing Files - Overwrite**<br>
 Import a directory of pre-existing audio files -- overwrite metadata of existing files
 
 | PASS | FAIL | Build # | Timestamp | User |
@@ -101,7 +101,7 @@ Import a directory of pre-existing audio files -- overwrite metadata of existing
 |  |
 
 ## TST.LIB.9.2.4
-**Dir of Existing Files - Create New**
+**Dir of Existing Files - Create New**<br>
 Import a directory of pre-existing audio files -- create duplicate records for exsiting songs
 
 | Pass |          ID           | Action | Reference |
@@ -122,7 +122,7 @@ Import a directory of pre-existing audio files -- create duplicate records for e
 |  |
 
 ## TST.LIB.9.2.5
-**Dir of Existing Files - Merge - ID3 Tag**
+**Dir of Existing Files - Merge - ID3 Tag**<br>
 Import a directory of pre-existing audio files -- overwrite BPM and Key metadata of existing records with metadata from selected files
 
 | Pass |          ID           | Action | Reference |
@@ -144,7 +144,7 @@ Import a directory of pre-existing audio files -- overwrite BPM and Key metadata
 |  |
 
 ## TST.LIB.9.2.6
-**Dir of Existing Files - Merge - Library**
+**Dir of Existing Files - Merge - Library**<br>
 Import a directory of pre-existing audio files -- retain existing BPM and Key metadata in Library
 
 | Pass |          ID           | Action | Reference |
@@ -166,7 +166,7 @@ Import a directory of pre-existing audio files -- retain existing BPM and Key me
 |  |
 
 ## TST.LIB.9.2.7
-**Dir of Mixed New/Existing Files - Skip Existing**
+**Dir of Mixed New/Existing Files - Skip Existing**<br>
 Import a directory of pre-existing audio files -- skip existing files
 
 | PASS | FAIL | Build # | Timestamp | User |
@@ -190,7 +190,7 @@ Import a directory of pre-existing audio files -- skip existing files
 |  |
 
 ## TST.LIB.9.2.8
-**Dir of Mixed New/Existing Files - Merge Existing**
+**Dir of Mixed New/Existing Files - Merge Existing**<br>
 Import a directory of pre-existing audio files -- overwrite BPM and Key metadata of existing records with metadata from selected files
 
 | PASS | FAIL | Build # | Timestamp | User |
