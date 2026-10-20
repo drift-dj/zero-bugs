@@ -5,6 +5,7 @@
 - X [SMOK.LIB.3](SMOK/LIB/SMOK.LIB.1_Import.md) Local Large Rekordbox Import
 - X [SMOK.LIB.4](SMOK/LIB/SMOK.LIB.1_Import.md) Local Giant Rekordbox Import
 ## Playback
+- X [SMOK.PBK.1](SMOK/PBK/SMOK.PBK.1_DJ_Set.md) DJ Playback Smoke Test
 ## USB
 - X [SMOK.USB.1](SMOK/USB/SMOK.USB.1_Connectivity.md) USB Connectivity Smoke Test
 
@@ -13,12 +14,49 @@
 ## Library
 
 ### TST.LIB.1 Playlists Menu
+- X [TST.LIB.1.0](xx.md) Load Song
+- X [TST.LIB.1.1](xx.md) Edit Song
+- X [TST.LIB.1.2](xxx.md) Create New Playlist
+- X [TST.LIB.1.3](xxx.md) Delete Playlist
+- X [TST.LIB.1.4](xxx.md) Rename Playlist
+- X [TST.LIB.1.5](xxx.md) Add Song to Playlist
+- X [TST.LIB.1.6](xxx.md) Move Song in Playlist
+- X [TST.LIB.1.7](xxx.md) Remove Song from Playlist
+
 ### TST.LIB.2 Artists Menu
+- X [TST.LIB.2.0](xx.md) Load Song
+- X [TST.LIB.2.1](xx.md) Edit Song
+- X [TST.LIB.2.2](xx.md) Add to Playlist
+- X [TST.LIB.2.3](xx.md) Remove Song
+
 ### TST.LIB.3 Genre Menu
+- X [TST.LIB.3.0](xx.md) Load Song
+- X [TST.LIB.3.1](xx.md) Edit Song
+- X [TST.LIB.3.2](xx.md) Add to Playlist
+- X [TST.LIB.3.3](xx.md) Remove Song
+
 ### TST.LIB.4 BPM Menu
+- X [TST.LIB.4.0](xx.md) Load Song
+- X [TST.LIB.4.1](xx.md) Edit Song
+- X [TST.LIB.4.2](xx.md) Add to Playlist
+- X [TST.LIB.4.3](xx.md) Remove Song
+
 ### TST.LIB.5 Key Menu
+- X [TST.LIB.5.0](xx.md) Load Song
+- X [TST.LIB.5.1](xx.md) Edit Song
+- X [TST.LIB.5.2](xx.md) Add to Playlist
+- X [TST.LIB.5.3](xx.md) Remove Song
+
 ### TST.LIB.6 Errors Menu
+- X [TST.LIB.6.0](xx.md) Load Song
+- X [TST.LIB.6.1](xx.md) Edit Song
+- X [TST.LIB.6.2](xx.md) Add to Playlist
+- X [TST.LIB.6.3](xx.md) Remove Song
+
 ### TST.LIB.7 Add Music Menu
+- X [TST.LIB.7.0](xx.md) Browse Files
+- X [TST.LIB.7.1](xx.md) Rekordbox XML
+- X [TST.LIB.7.2](xx.md) Drive Mode
 
 ### TST.LIB.8 Song Edit
 - X [TST.LIB.8.0](TST/LIB/8_Song_Edit/TST.LIB.8_Song_Edit.md#TST.LIB.8.0) Remove Song
@@ -41,14 +79,15 @@
 - X [TST.LIB.9.1.1](TST/LIB/9_Import/TST.LIB.9.0_Import_USB_Single_File.md#TST.LIB.9.1.1) Existing file
 
 #### TST.LIB.9.2 Import Local - File Directory
-- [TST.LIB.9.2.0](TST/LIB/9_Import/TST.LIB.9.2_Import_Local_File_Dir.md#TST.LIB.9.2.0) Dir of New Files
-- [TST.LIB.9.2.1](TST/LIB/9_Import/TST.LIB.9.2_Import_Local_File_Dir.md#TST.LIB.9.2.1) Dir of Existing Files - Skip
-- [TST.LIB.9.2.2](TST/LIB/9_Import/TST.LIB.9.2_Import_Local_File_Dir.md#TST.LIB.9.2.2) Dir of Existing Files - Overwrite
-- [TST.LIB.9.2.3](TST/LIB/9_Import/TST.LIB.9.2_Import_Local_File_Dir.md#TST.LIB.9.2.3) Dir of Existing Files - Create New
-- [TST.LIB.9.2.4](TST/LIB/9_Import/TST.LIB.9.2_Import_Local_File_Dir.md#TST.LIB.9.2.4) Dir of Existing Files - Merge - ID3 Tag
-- [TST.LIB.9.2.5](TST/LIB/9_Import/TST.LIB.9.2_Import_Local_File_Dir.md#TST.LIB.9.2.5) Dir of Existing Files - Merge - Library
-- [TST.LIB.9.2.6](TST/LIB/9_Import/TST.LIB.9.2_Import_Local_File_Dir.md#TST.LIB.9.2.6) Dir of Mixed New/Existing Files - Skip Existing
-- [TST.LIB.9.2.7](TST/LIB/9_Import/TST.LIB.9.2_Import_Local_File_Dir.md#TST.LIB.9.2.7) Dir of Mixed New/Existing Files - Merge Existing
+- [TST.LIB.9.2.0](TST/LIB/9_Import/TST.LIB.9.2_Import_Local_File_Dir.md#TST.LIB.9.2.1) Directory Import Options Menu
+- [TST.LIB.9.2.1](TST/LIB/9_Import/TST.LIB.9.2_Import_Local_File_Dir.md#TST.LIB.9.2.1) Dir of New Files
+- [TST.LIB.9.2.2](TST/LIB/9_Import/TST.LIB.9.2_Import_Local_File_Dir.md#TST.LIB.9.2.2) Dir of Existing Files - Skip
+- [TST.LIB.9.2.3](TST/LIB/9_Import/TST.LIB.9.2_Import_Local_File_Dir.md#TST.LIB.9.2.3) Dir of Existing Files - Overwrite
+- [TST.LIB.9.2.4](TST/LIB/9_Import/TST.LIB.9.2_Import_Local_File_Dir.md#TST.LIB.9.2.4) Dir of Existing Files - Create New
+- [TST.LIB.9.2.5](TST/LIB/9_Import/TST.LIB.9.2_Import_Local_File_Dir.md#TST.LIB.9.2.5) Dir of Existing Files - Merge - ID3 Tag
+- [TST.LIB.9.2.6](TST/LIB/9_Import/TST.LIB.9.2_Import_Local_File_Dir.md#TST.LIB.9.2.6) Dir of Existing Files - Merge - Library
+- [TST.LIB.9.2.7](TST/LIB/9_Import/TST.LIB.9.2_Import_Local_File_Dir.md#TST.LIB.9.2.7) Dir of Mixed New/Existing Files - Skip Existing
+- [TST.LIB.9.2.8](TST/LIB/9_Import/TST.LIB.9.2_Import_Local_File_Dir.md#TST.LIB.9.2.8) Dir of Mixed New/Existing Files - Merge Existing
 
 
 
@@ -56,6 +95,7 @@
 #### TST.LIB.9.3 Import USB Drive - File Directory
 
 #### TST.LIB.9.4 Import Local - Rekordbox XML
+- X [TST.LIB.9.4.0](TST/LIB/9_Import/TST.LIB.9.4_Import_Local_RB.md#TST.LIB.9.X.X) Rekordbox XML Import Options Menu
 - X [TST.LIB.9.4.0](TST/LIB/9_Import/TST.LIB.9.4_Import_Local_RB.md#TST.LIB.9.X.X) New Rekordbox XML
 - X [TST.LIB.9.4.0](TST/LIB/9_Import/TST.LIB.9.4_Import_Local_RB.md#TST.LIB.9.X.X) Existing Rekordbox XML - Skip Existing
 - X [TST.LIB.9.4.0](TST/LIB/9_Import/TST.LIB.9.4_Import_Local_RB.md#TST.LIB.9.X.X) Existing Rekordbox XML - Merge Existing
