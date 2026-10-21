@@ -95,11 +95,10 @@
 #### TST.LIB.9.3 Import USB Drive - File Directory
 
 #### TST.LIB.9.4 Import Local - Rekordbox XML
-- X [TST.LIB.9.4.0](TST/LIB/9_Import/TST.LIB.9.4_Import_Local_RB.md#TST.LIB.9.X.X) Rekordbox XML Import Options Menu
-- X [TST.LIB.9.4.0](TST/LIB/9_Import/TST.LIB.9.4_Import_Local_RB.md#TST.LIB.9.X.X) New Rekordbox XML
-- X [TST.LIB.9.4.0](TST/LIB/9_Import/TST.LIB.9.4_Import_Local_RB.md#TST.LIB.9.X.X) Existing Rekordbox XML - Skip Existing
-- X [TST.LIB.9.4.0](TST/LIB/9_Import/TST.LIB.9.4_Import_Local_RB.md#TST.LIB.9.X.X) Existing Rekordbox XML - Merge Existing
-- X [TST.LIB.9.4.0](TST/LIB/9_Import/TST.LIB.9.4_Import_Local_RB.md#TST.LIB.9.X.X) Mixed New/Existing Rekordbox XML
+- [TST.LIB.9.4.0](TST/LIB/9_Import/TST.LIB.9.4_Import_Local_RB.md#TST.LIB.9.X.X) Rekordbox XML Import Options Menu
+- [TST.LIB.9.4.1](TST/LIB/9_Import/TST.LIB.9.4_Import_Local_RB.md#TST.LIB.9.X.X) New Rekordbox XML
+- [TST.LIB.9.4.2](TST/LIB/9_Import/TST.LIB.9.4_Import_Local_RB.md#TST.LIB.9.X.X) Existing Rekordbox XML - Skip
+- [TST.LIB.9.4.3](TST/LIB/9_Import/TST.LIB.9.4_Import_Local_RB.md#TST.LIB.9.X.X) Mixed New/Existing Rekordbox XML - Merge
 
 #### TST.LIB.9.5 Import USB Drive - Rekordbox XML
 
