@@ -1,15 +1,3 @@
-# How to Execute a Test Run
-1. Create a new git branch and give it a name
-2. Execute desired Smoke/Regression tests
-    1. For each .md file:
-        1. Add ✅ / ❌ to test table rows
-        2. Edit Results table
-            - Add ✅ / ❌ to PASS/FAIL status
-            - Add user name 
-            - Add ISO-8106 timestamp (use online generator here)
-        3. Edit Notes table (optional)
-    2. Commit changes to git branch
-
 # Smoke Tests
 ## Library
 - X [SMOK.LIB.1](SMOK/LIB/SMOK.LIB.1_Import.md) Local File Import
