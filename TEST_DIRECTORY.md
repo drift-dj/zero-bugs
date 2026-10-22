@@ -1,3 +1,15 @@
+# How to Execute a Test Run
+1. Create a new git branch and give it a name
+2. Execute desired Smoke/Regression tests
+    1. For each .md file:
+        1. Add ✅ / ❌ to test table rows
+        2. Edit Results table
+            - Add ✅ / ❌ to PASS/FAIL status
+            - Add user name 
+            - Add ISO-8106 timestamp (use online generator here)
+        3. Edit Notes table (optional)
+    2. Commit changes to git branch
+
 # Smoke Tests
 ## Library
 - X [SMOK.LIB.1](SMOK/LIB/SMOK.LIB.1_Import.md) Local File Import
@@ -71,8 +83,6 @@
 - [TST.LIB.9.0.4](TST/LIB/9_Import/TST.LIB.9.0_Import_Local_Single_File.md#TST.LIB.9.0.4) New file - Error - Unsupported Sample Rate
 - [TST.LIB.9.0.5](TST/LIB/9_Import/TST.LIB.9.0_Import_Local_Single_File.md#TST.LIB.9.0.5) New file - Error - Unsupported Codec
 - [TST.LIB.9.0.6](TST/LIB/9_Import/TST.LIB.9.0_Import_Local_Single_File.md#TST.LIB.9.0.6) New file - Error - Unsupported Filetype
-- X [TST.LIB.9.0.7](TST/LIB/9_Import/TST.LIB.9.0_Import_Local_Single_File.md#TST.LIB.9.0.7) ~~Existing File - Overwrite Error w/Valid File~~
-- X [TST.LIB.9.0.8](TST/LIB/9_Import/TST.LIB.9.0_Import_Local_Single_File.md#TST.LIB.9.0.8) ~~Existing File - Change Path~~
 
 #### TST.LIB.9.1 Import USB Drive - Single File
 - X [TST.LIB.9.1.0](TST/LIB/9_Import/TST.LIB.9.0_Import_USB_Single_File.md#TST.LIB.9.0.0) New File
@@ -90,8 +100,6 @@
 - [TST.LIB.9.2.8](TST/LIB/9_Import/TST.LIB.9.2_Import_Local_File_Dir.md#TST.LIB.9.2.8) Dir of Mixed New/Existing Files - Merge Existing
 
 
-
-
 #### TST.LIB.9.3 Import USB Drive - File Directory
 
 #### TST.LIB.9.4 Import Local - Rekordbox XML
@@ -103,6 +111,13 @@
 #### TST.LIB.9.5 Import USB Drive - Rekordbox XML
 
 
+#### TST.LIB.9.6 Import Edge Cases
+- X [TST.LIB.9.6.0](TST/LIB/9_Import/TST.LIB.9.0_Import_Local_Single_File.md#TST.LIB.9.0.7) Fix Song Error
+- X [TST.LIB.9.6.1](TST/LIB/9_Import/TST.LIB.9.0_Import_Local_Single_File.md#TST.LIB.9.0.8) Change Song Path
+- X [TST.LIB.9.6.1](TST/LIB/9_Import/TST.LIB.9.0_Import_Local_Single_File.md#TST.LIB.9.0.8) Rescan Codec Error
+- X [TST.LIB.9.6.1](TST/LIB/9_Import/TST.LIB.9.0_Import_Local_Single_File.md#TST.LIB.9.0.8) Rescan File Format Error
+- X [TST.LIB.9.6.2](TST/LIB/9_Import/TST.LIB.9.4_Import_Local_RB.md#TST.LIB.9.X.X) Long ID3 Tags
+- X [TST.LIB.9.6.3](TST/LIB/9_Import/TST.LIB.9.4_Import_Local_RB.md#TST.LIB.9.X.X) Long RB Strings
 
 ### TST.LIB.10 ID3 Tags
 - X [TST.LIB.10.0](TST/LIB/10_Tags/TST.LIB.9_Tags.md#tst.lib.9.0) No Tags (t0)
