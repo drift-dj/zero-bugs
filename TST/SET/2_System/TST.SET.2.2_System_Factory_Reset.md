@@ -1,20 +1,3 @@
-#### TST.SET.2.1
-**Reboot**
-
-| PASS | FAIL | Build # | Timestamp | User |
-| :---: | :---: | :--- | :--- | :--- |
-| | | | | |
-
-| Pass |          ID           | Action | Reference |
-| :---: | :------------------- | :-------- | :------- |
- 
-
-| Notes | 
-| :--- |
-|  |
-
-
-
 #### TST.SET.2.2.0
 **Factory Reset**
 
@@ -24,6 +7,15 @@
 
 | Pass |          ID           | Action | Reference |
 | :---: | :------------------- | :-------- | :------- |
+
+- Configure: [Simple QA Lib](CONF/QA/CONF.QA.1_Libraries)
+- Navigate: Control Panels/Settings/System/Factory Reset
+- Verify: Factory Reset Settings Appears
+- Select: Lib DB
+- Verify: Lib Reset Appears
+- Select: Run
+- Verify: Device Reboot
+- Verify: Empty Library
 
 | Notes | 
 | :--- |
@@ -98,15 +90,3 @@
 | Notes | 
 | :--- |
 |  |
-
-#### TST.SET.2.3 USB Boot Mode
-- [TST.SET.2.3.0](TST/SET/TST.LIB.2_System.md#tst.set.2.3.0) USB Boot Mode Retain
-- [TST.SET.2.3.1](TST/SET/TST.LIB.2_System.md#tst.set.2.3.1) USB Boot Mode Offline
-- [TST.SET.2.3.2](TST/SET/TST.LIB.2_System.md#tst.set.2.3.2) USB Boot Mode Host
-- [TST.SET.2.3.3](TST/SET/TST.LIB.2_System.md#tst.set.2.3.3) USB Boot Mode Gadget
-
-#### TST.SET.2.4 Software - Install Apps
-- [TST.SET.2.4.0](TST/SET/TST.LIB.2_System.md#tst.set.2.4.0) Install App
-
-#### TST.SET.2.5 Software - DriftOS
-- [TST.SET.2.5.0](TST/SET/TST.LIB.2_System.md#tst.set.2.5.0) Update DriftOS

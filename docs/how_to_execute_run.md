@@ -23,8 +23,10 @@
         1. Add ✅ / ❌ to test table rows
         2. Edit Results table
             - Add ✅ / ❌ to PASS/FAIL status
-            - Add user name 
-            - Add ISO-8106 timestamp (use online generator here)
+            - Add Build #
+            - Add ISO-8106 timestamp (use online/LLM generator)
+            - Add ID to User column
+                - This is a public repo -- avoid email addresses
         3. Edit Notes table (optional)
     2. Commit changes to git branch
     3. Refer/link to your new test branch in related comms/tickets/etc.

@@ -12,4 +12,5 @@ WIP
 ## QA Links:
 - [Test Directory](TEST_DIRECTORY.md)
 - [UI Glossary](UI_GLOSSARY.md)
+- [QA Source Files](docs/qa_files.md)
 - [How to Publish Test Results](docs/how_to_execute_run.md)

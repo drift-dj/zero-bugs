@@ -182,24 +182,55 @@
 ### TST.SET.2 System
 
 #### TST.SET.2.1 Reboot
-- X [TST.SET.2.1](TST/SET/TST.SET.2_System.md#tst.set.2.1) Reboot
+- X [TST.SET.2.1](TST/SET/2_System/TST.SET.2.1_System_Reboot.md#tst.set.2.1) Reboot
 
 #### TST.SET.2.2 Factory Reset
-- X [TST.SET.2.2.0](TST/SET/TST.SET.2_System.md#tst.set.2.2.0) Full Factory Reset
-- X [TST.SET.2.2.1](TST/SET/TST.SET.2_System.md#tst.set.2.2.1) Library DB Reset
-- X [TST.SET.2.2.2](TST/SET/TST.SET.2_System.md#tst.set.2.2.2) User Settings Reset
-- X [TST.SET.2.2.3](TST/SET/TST.SET.2_System.md#tst.set.2.2.3) Mixer Settings Reset
-- X [TST.SET.2.2.4](TST/SET/TST.SET.2_System.md#tst.set.2.2.4) USB State Reset
-- X [TST.SET.2.2.5](TST/SET/TST.SET.2_System.md#tst.set.2.2.5) USB Device DB Reset
+- X [TST.SET.2.2.0](TST/SET/2_System/TST.SET.2.2_System_Factory_Reset.md#tst.set.2.2.0) Full Factory Reset
+- X [TST.SET.2.2.1](TST/SET/2_System/TST.SET.2.2_System_Factory_Reset.md#tst.set.2.2.1) Library DB Reset
+- X [TST.SET.2.2.2](TST/SET/2_System/TST.SET.2.2_System_Factory_Reset.md#tst.set.2.2.2) User Settings Reset
+- X [TST.SET.2.2.3](TST/SET/2_System/TST.SET.2.2_System_Factory_Reset.md#tst.set.2.2.3) Mixer Settings Reset
+- X [TST.SET.2.2.4](TST/SET/2_System/TST.SET.2.2_System_Factory_Reset.md#tst.set.2.2.4) USB State Reset
+- X [TST.SET.2.2.5](TST/SET/2_System/TST.SET.2.2_System_Factory_Reset.md#tst.set.2.2.5) USB Device DB Reset
 
 #### TST.SET.2.3 USB Boot Mode
-- X [TST.SET.2.3.0](TST/SET/TST.SET.2_System.md#tst.set.2.3.0) USB Boot Mode Retain
-- X [TST.SET.2.3.1](TST/SET/TST.SET.2_System.md#tst.set.2.3.1) USB Boot Mode Offline
-- X [TST.SET.2.3.2](TST/SET/TST.SET.2_System.md#tst.set.2.3.2) USB Boot Mode Host
-- X [TST.SET.2.3.3](TST/SET/TST.SET.2_System.md#tst.set.2.3.3) USB Boot Mode Gadget
+- X [TST.SET.2.3.0](TST/SET/2_System/TST.SET.2.3_USB_Boot_Mode.md#tst.set.2.3.0) USB Boot Mode Retain
+- X [TST.SET.2.3.1](TST/SET/2_System/TST.SET.2.3_USB_Boot_Mode.md#tst.set.2.3.1) USB Boot Mode Offline
+- X [TST.SET.2.3.2](TST/SET/2_System/TST.SET.2.3_USB_Boot_Mode.md#tst.set.2.3.2) USB Boot Mode Host
+- X [TST.SET.2.3.3](TST/SET/2_System/TST.SET.2.3_USB_Boot_Mode.md#tst.set.2.3.3) USB Boot Mode Gadget
 
 #### TST.SET.2.4 Software - Install Apps
-- X [TST.SET.2.4.0](TST/SET/TST.SET.2_System.md#tst.set.2.4.0) Install App
+- X [TST.SET.2.4.0](TST/SET/2_System/TST.SET.2.4_System_Install_App.md#tst.set.2.4.0) Install App
 
 #### TST.SET.2.5 Software - DriftOS
-- X [TST.SET.2.5.0](TST/SET/TST.SET.2_System.md#tst.set.2.5.0) Update DriftOS
+- X [TST.SET.2.5.0](TST/SET/2_System/TST.SET.2.5_System_DriftOS.md#tst.set.2.5.0) Update DriftOS
+
+
+
+
+
+# Configure
+
+## Files
+
+### CONF.FILE.1 USB Thumb Drive
+- X [CONF.FILE.1.0.0](xxx) FAT32 Music Files Drive
+- X [CONF.FILE.1.0.0](xxx) FAT32 Rekordbox Drive
+- X [CONF.FILE.1.0.0](xxx) FAT32 OS Update Drive
+
+### CONF.FILE.2 Load From Host PC
+- X [CONF.FILE.2.0](xxx) Copy Music Files to /music
+- X [CONF.FILE.2.0](xxx) Copy Music Files via Host Rekordbox UI
+- X [CONF.FILE.2.0](xxx) Load Reset Image from Host PC
+
+
+## Library
+
+- X [CONF.LIB.1](xxx) Simple QA Lib
+- X [CONF.LIB.1](xxx) Error QA Lib
+- X [CONF.LIB.1](xxx) DJ Smoke Test Lib (0.6.1)
+
+## Soundcard
+
+## Apps
+
+## DriftOS
