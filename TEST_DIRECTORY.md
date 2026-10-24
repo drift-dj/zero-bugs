@@ -225,9 +225,9 @@
 
 ## Library
 
-- X [CONF.LIB.1](xxx) Simple QA Lib
-- X [CONF.LIB.1](xxx) Error QA Lib
-- X [CONF.LIB.1](xxx) DJ Smoke Test Lib (0.6.1)
+- [CONF.LIB.1](CONF/CONF.LIB.md#conf.lib.1) Simple QA Lib
+- [CONF.LIB.2](CONF/CONF.LIB.md#conf.lib.2) Error QA Lib
+- [CONF.LIB.3](CONF/CONF.LIB.md#conf.lib.3) DJ Smoke Test Lib (0.6.1)
 
 ## Soundcard
 
