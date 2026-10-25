@@ -32,7 +32,7 @@ A Library with all error types present
 
 
 ## CONF.LIB.3
-**DJ Smoke Test Lib**
+**DJ Smoke Test Lib (0.6.1)**
 A Library of mixable tracks for running DJ Playback smoke tests
 
 | ID           | Action | Reference |

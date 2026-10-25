@@ -6,16 +6,16 @@
 | | | | | |
 
 | Pass |          ID           | Action | Reference |
-| :---: | :------------------- | :-------- | :------- |
+| :---: | :------------------- | --------: | :------- |
 
 - Configure: [Simple QA Lib](CONF/QA/CONF.QA.1_Libraries)
-- Navigate: Control Panels/Settings/System/Factory Reset
-- Verify: Factory Reset Settings Appears
-- Select: Lib DB
-- Verify: Lib Reset Appears
-- Select: Run
-- Verify: Device Reboot
-- Verify: Empty Library
+- Navigate Control Panels/Settings/System/Factory Reset
+- Verify Factory Reset Settings Appears
+- Select Lib DB
+- Verify Lib Reset Appears
+- Select Run
+- Verify Device Reboot
+- Verify Empty Library
 
 | Notes | 
 | :--- |
@@ -29,7 +29,7 @@
 | | | | | |
 
 | Pass |          ID           | Action | Reference |
-| :---: | :------------------- | :-------- | :------- |
+| :---: | :------------------- | --------: | :------- |
 
 | Notes | 
 | :--- |
@@ -43,7 +43,7 @@
 | | | | | |
 
 | Pass |          ID           | Action | Reference |
-| :---: | :------------------- | :-------- | :------- |
+| :---: | :------------------- | --------: | :------- |
 
 | Notes | 
 | :--- |
@@ -57,7 +57,7 @@
 | | | | | |
 
 | Pass |          ID           | Action | Reference |
-| :---: | :------------------- | :-------- | :------- |
+| :---: | :------------------- | --------: | :------- |
 
 | Notes | 
 | :--- |
@@ -71,7 +71,7 @@
 | | | | | |
 
 | Pass |          ID           | Action | Reference |
-| :---: | :------------------- | :-------- | :------- |
+| :---: | :------------------- | --------: | :------- |
 
 | Notes | 
 | :--- |
@@ -85,7 +85,7 @@
 | | | | | |
 
 | Pass |          ID           | Action | Reference |
-| :---: | :------------------- | :-------- | :------- |
+| :---: | :------------------- | --------: | :------- |
 
 | Notes | 
 | :--- |
