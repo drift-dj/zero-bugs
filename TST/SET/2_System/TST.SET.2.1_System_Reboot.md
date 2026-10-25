@@ -6,13 +6,13 @@
 | | | | | |
 
 | Pass |          ID           | Action | Reference |
-| :---: | :------------------- | :-------- | :------- |
+| :---: | :------------------- | --------: | :------- |
 
-- Navigate: Control Panels/Settings/System
-- Verify: System Settings Appears
-- Select: Reboot
-- Verify: Device Reboots
-- Verify: DJ Mode appears
+- Navigate Control Panels/Settings/System
+- Verify System Settings Appears
+- Select Reboot
+- Verify Device Reboots
+- Verify DJ Mode appears
 
 | Notes | 
 | :--- |

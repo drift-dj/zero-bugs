@@ -8,21 +8,21 @@ Load and install a new DriftOS Distribution from a host computer connected via U
 | | | | | |
 
 | Pass |          ID           | Action | Reference |
-| :---: | :------------------- | :-------- | :------- |
+| :---: | :------------------- | --------: | :------- |
 
 - Configure: [[Load Reset Image from Host PC](xxx)]
-- Navigate: Control Panels > Settings > System > Drift OS > Update
-- File Browse: /Installers/xxx_reset.img
-- Verify: Dialog appears
-- Select: Okay
-- Verify: Update Appears
-- Select: Update
-- Verify: Flow Appears
-- Verify: Reboot Appears
-- Select: Okay
-- Verify: Sys Update Appears
-- Verify: Reboot
-- Verify: New Version Appears
+- Navigate Control Panels > Settings > System > Drift OS > Update
+- File Browse /Installers/xxx_reset.img
+- Verify Dialog appears
+- Select Okay
+- Verify Update Appears
+- Select Update
+- Verify Flow Appears
+- Verify Reboot Appears
+- Select Okay
+- Verify Sys Update Appears
+- Verify Reboot
+- Verify New Version Appears
 
 | Notes | 
 | :--- |
@@ -39,25 +39,25 @@ Load and install a new DriftOS Distribution from a USB thumb drive
 | | | | | |
 
 | Pass |          ID           | Action | Reference |
-| :---: | :------------------- | :-------- | :------- |
+| :---: | :------------------- | --------: | :------- |
 
 
 - Copy Image to FAT32 USB Drive
 - Set Host Mode
 - Insert Drive
 - Verify appears in Files Panel
-- Navigate: Control Panels > Settings > System > Drift OS > Update
-- File Browse: /Drive/xxx_reset.img
-- Verify: Dialog appears
-- Select: Okay
-- Verify: Update Appears
-- Select: Update
-- Verify: Flow Appears
-- Verify: Reboot Appears
-- Select: Okay
-- Verify: Sys Update Appears
-- Verify: Reboot
-- Verify: New Version Appears
+- Navigate Control Panels > Settings > System > Drift OS > Update
+- File Browse /Drive/xxx_reset.img
+- Verify Dialog appears
+- Select Okay
+- Verify Update Appears
+- Select Update
+- Verify Flow Appears
+- Verify Reboot Appears
+- Select Okay
+- Verify Sys Update Appears
+- Verify Reboot
+- Verify New Version Appears
 
 | Notes | 
 | :--- |
