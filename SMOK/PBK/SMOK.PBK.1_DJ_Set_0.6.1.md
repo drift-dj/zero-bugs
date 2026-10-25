@@ -17,7 +17,7 @@
 
 **SMK.PBK.1.1** Load Track 1
 
-| | | |
+| Pass |          ID           | Action | Reference |
 | :---: | :------------------- | --------: | :------- |
 |  | SMOK.PBK.1.1.0 | Load | Deck 1: Water (ODM Mix) |
 |  | SMOK.PBK.1.1.1 | Control | [[Deck 1 Fader](xxx.md)] Full up |
@@ -33,7 +33,7 @@
 
 **SMK.PBK.1.2** Load Track 2
 
-| | | |
+| Pass |          ID           | Action | Reference |
 | :---: | :------------------- | --------: | :------- |
 |  | SMOK.PBK.1.2.0 | Load | Deck 2: Cornell West (ODM Mix) |
 |  | SMOK.PBK.1.2.1 | Control | Deck 2 Activate Cuepoint #1  |
@@ -45,7 +45,7 @@
 
 **SMK.PBK.1.3** Check Tempo Adjust
 
-| | | |
+| Pass |          ID           | Action | Reference |
 | :---: | :------------------- | --------: | :------- |
 |  | SMOK.PBK.1.3.0 | Control | Set BPM to 100 |
 |  | SMOK.PBK.1.3.1 | Control | Set BPM to 150 |
@@ -53,7 +53,7 @@
 
 **SMK.PBK.1.4** Check Loop/Skip
 
-| | | |
+| Pass |          ID           | Action | Reference |
 | :---: | :------------------- | --------: | :------- |
 |  | SMOK.PBK.1.4.0 | Control | Deck 2 Enable Loop |
 |  | SMOK.PBK.1.4.1 | Control | Deck 2 Adjust Loop Length |
@@ -65,7 +65,7 @@
 
 **SMK.PBK.1.5** Check Headphone Cue & Deck Gain
 
-| | | |
+| Pass |          ID           | Action | Reference |
 | :---: | :------------------- | --------: | :------- |
 |  | SMOK.PBK.1.5.0 | Control | [[Deck 1 Fader](xxx.md)] Full down |
 |  | SMOK.PBK.1.5.1 | Control | [[Deck 2 Fader](xxx.md)] Full down |
@@ -90,7 +90,7 @@
 
 **SMK.PBK.1.6** Load Track 3
 
-| | | |
+| Pass |          ID           | Action | Reference |
 | :---: | :------------------- | --------: | :------- |
 |  | SMOK.PBK.1.6.0 | Load | Deck 1: Outside the Veil (ODM Mix) |
 |  | SMOK.PBK.1.6.1 | Control | Deck 1 Set Sync Mult to x2 |
@@ -100,7 +100,7 @@
 
 **SMK.PBK.1.7** Momentary Deck Select
 
-| | | |
+| Pass |          ID           | Action | Reference |
 | :---: | :------------------- | --------: | :------- |
 |  | SMOK.PBK.1.7.0 | Control | Deck 1 Btn Press |
 |  | SMOK.PBK.1.7.1 | Control | Deck 2 Btn Hold |
@@ -113,7 +113,7 @@
 
 **SMK.PBK.1.8** Filter
 
-| | | |
+| Pass |          ID           | Action | Reference |
 | :---: | :------------------- | --------: | :------- |
 |  | SMOK.PBK.1.8.0 | Control | Deck 1 Adjust Bi-modal Filter |
 |  | SMOK.PBK.1.8.1 | Control | Deck 1 Reset Bi-modal Filter |
