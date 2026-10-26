@@ -73,8 +73,13 @@
 - [TST.LIB.9.0.6](TST/LIB/9_Import/TST.LIB.9.0_Import_Local_Single_File.md#TST.LIB.9.0.6) New file - Error - Unsupported Filetype
 
 #### TST.LIB.9.1 Import USB Drive - Single File
-- ~~[TST.LIB.9.1.0](TST/LIB/9_Import/TST.LIB.9.0_Import_USB_Single_File.md#TST.LIB.9.0.0) New File~~
-- ~~[TST.LIB.9.1.1](TST/LIB/9_Import/TST.LIB.9.0_Import_USB_Single_File.md#TST.LIB.9.1.1) Existing file~~
+- ~~[TST.LIB.9.1.0](TST/LIB/9_Import/TST.LIB.9.0_Import_USB_Single_File.md#TST.LIB.9.0.0) New File - ExFAT Drive~~
+- ~~[TST.LIB.9.1.1](TST/LIB/9_Import/TST.LIB.9.0_Import_USB_Single_File.md#TST.LIB.9.1.1) Existing file - ExFAT Drive~~
+- ~~[TST.LIB.9.1.0](TST/LIB/9_Import/TST.LIB.9.0_Import_USB_Single_File.md#TST.LIB.9.0.0) New File - FAT32 Drive~~
+- ~~[TST.LIB.9.1.1](TST/LIB/9_Import/TST.LIB.9.0_Import_USB_Single_File.md#TST.LIB.9.1.1) Existing file - FAT32 Drive~~
+- ~~[TST.LIB.9.1.0](TST/LIB/9_Import/TST.LIB.9.0_Import_USB_Single_File.md#TST.LIB.9.0.0) New File - HFS+ Drive~~
+- ~~[TST.LIB.9.1.1](TST/LIB/9_Import/TST.LIB.9.0_Import_USB_Single_File.md#TST.LIB.9.1.1) Existing file - HFS+ Drive~~
+
 
 #### TST.LIB.9.2 Import Local - File Directory
 - [TST.LIB.9.2.0](TST/LIB/9_Import/TST.LIB.9.2_Import_Local_File_Dir.md#TST.LIB.9.2.1) Directory Import Options Menu
@@ -89,6 +94,7 @@
 
 
 #### TST.LIB.9.3 Import USB Drive - File Directory
+- ~~[TST.LIB.9.3.0](TST/LIB/9_Import/TST.LIB.9.3_Import_USB_File_Dir.md#TST.LIB.9.2.8) Dir of Mixed New/Existing Files - Merge Existing~~
 
 #### TST.LIB.9.4 Import Local - Rekordbox XML
 - [TST.LIB.9.4.0](TST/LIB/9_Import/TST.LIB.9.4_Import_Local_RB.md#TST.LIB.9.X.X) Rekordbox XML Import Options Menu
@@ -97,7 +103,7 @@
 - [TST.LIB.9.4.3](TST/LIB/9_Import/TST.LIB.9.4_Import_Local_RB.md#TST.LIB.9.X.X) Mixed New/Existing Rekordbox XML - Merge
 
 #### TST.LIB.9.5 Import USB Drive - Rekordbox XML
-
+- ~~[TST.LIB.9.5.0](TST/LIB/9_Import/TST.LIB.9.5_Import_USB_RB.md#TST.LIB.9.X.X) Mixed New/Existing Rekordbox XML - Merge~~
 
 #### TST.LIB.9.6 Import Edge Cases
 - ~~[TST.LIB.9.6.0](TST/LIB/9_Import/TST.LIB.9.0_Import_Local_Single_File.md#TST.LIB.9.0.7) Fix Song Error~~
@@ -162,15 +168,46 @@
 
 ### TST.USB.3 Host Mode
 #### TST.USB.3.1 USB Drive Hosting
-- ~~[TST.USB.3.1.0](TST/USB/TST.USB.X) USB Drive Host - FAT32~~
-- ~~[TST.USB.3.1.1](TST/USB/TST.USB.X) USB Drive Host - FAT16~~
-- ~~[TST.USB.3.1.2](TST/USB/TST.USB.X) USB Drive Host - XXX~~
+- ~~[TST.USB.3.1.0](TST/USB/TST.USB.X) USB Drive Host - HFS+~~
+- ~~[TST.USB.3.1.1](TST/USB/TST.USB.X) USB Drive Host - ExFAT~~
+- ~~[TST.USB.3.1.2](TST/USB/TST.USB.X) USB Drive Host - FAT32~~
 
 #### TST.USB.3.1 USB Audio Device Hosting
 - ~~[TST.USB.3.1.0](TST/USB/TST.USB.X) USB Audio Device Host - Roland P6~~
 
 #### TST.USB.3.2 USB MIDI Device Hosting
 - ~~[TST.USB.3.2.0](TST/USB/TST.USB.X) USB MIDI Device Host - Roland P6~~
+
+
+
+## File Browser Panel
+
+### TST.FIL.1 Zero Media Drive
+- ~~[TST.FIL.3.0](TST/FIL/TST.FIL.X) Duplicate File~~
+- ~~[TST.FIL.3.0](TST/FIL/TST.FIL.X) Move File~~
+- ~~[TST.FIL.3.0](TST/FIL/TST.FIL.X) Delete File~~
+- ~~[TST.FIL.3.0](TST/FIL/TST.FIL.X) View Text File~~
+- ~~[TST.FIL.3.0](TST/FIL/TST.FIL.X) View Image File~~
+- ~~[TST.FIL.3.0](TST/FIL/TST.FIL.X) Preview Audio File~~
+
+### TST.FIL.2 Zero Linux Partition
+- ~~[TST.FIL.3.0](TST/FIL/TST.FIL.X) Duplicate File~~
+- ~~[TST.FIL.3.0](TST/FIL/TST.FIL.X) Move File~~
+- ~~[TST.FIL.3.0](TST/FIL/TST.FIL.X) Delete File~~
+- ~~[TST.FIL.3.0](TST/FIL/TST.FIL.X) View Text File~~
+- ~~[TST.FIL.3.0](TST/FIL/TST.FIL.X) View Image File~~
+
+### TST.FIL.3 Hosted USB Drive
+- ~~[TST.FIL.3.0](TST/FIL/TST.FIL.X) HFS+ Mount~~
+- ~~[TST.FIL.3.0](TST/FIL/TST.FIL.X) ExFAT Mount~~
+- ~~[TST.FIL.3.0](TST/FIL/TST.FIL.X) FAT32 Mount~~
+- ~~[TST.FIL.3.0](TST/FIL/TST.FIL.X) Copy File to Drive~~
+- ~~[TST.FIL.3.0](TST/FIL/TST.FIL.X) Copy File from Drive~~
+- ~~[TST.FIL.3.0](TST/FIL/TST.FIL.X) Delete File from Drive~~
+- ~~[TST.FIL.3.0](TST/FIL/TST.FIL.X) Duplicate File on Drive~~
+- ~~[TST.FIL.3.0](TST/FIL/TST.FIL.X) Move File on Drive~~
+
+
 
 ## Settings Panel
 
@@ -217,22 +254,17 @@
 
 ## Files
 
-### CONF.FILE.1 USB Thumb Drive
-- ~~[CONF.FILE.1.0.0](xxx) FAT32 Music Files Drive~~
-- ~~[CONF.FILE.1.0.0](xxx) FAT32 Rekordbox Drive~~
-- ~~[CONF.FILE.1.0.0](xxx) FAT32 OS Update Drive~~
-
-### CONF.FILE.2 Load From Host PC
-- ~~[CONF.FILE.2.0](xxx) Copy Music Files to /music~~
-- ~~[CONF.FILE.2.0](xxx) Copy Music Files via Host Rekordbox UI~~
-- ~~[CONF.FILE.2.0](xxx) Load Reset Image from Host PC~~
-
+- [CONF.FILE.1](CONF/CONF.FILE.md#conf.file.1) Format ExFAT Drive (MacOS)
+- [CONF.FILE.2](CONF/CONF.FILE.md#conf.file.2) Format FAT32 Drive (MacOS)
+- ~~[CONF.FILE.3](CONF/CONF.FILE.md#conf.file.3) Format HFS+ Drive (MacOS)~~
+- [CONF.FILE.4](CONF/CONF.FILE.md#conf.file.4) Load QA Files to Zero
+- [CONF.FILE.5](CONF/CONF.FILE.md#conf.file.5) Load QA Files to USB Drive
 
 ## Library
 
-- [CONF.LIB.1](CONF/CONF.LIB.md#conf.lib.1) Simple QA Lib
-- [CONF.LIB.2](CONF/CONF.LIB.md#conf.lib.2) Error QA Lib
-- [CONF.LIB.3](CONF/CONF.LIB.md#conf.lib.3) DJ Smoke Test Lib (0.6.1)
+- [CONF.LIB.1](CONF/CONF.LIB.md#conf.lib.1) Install Simple QA Lib
+- [CONF.LIB.2](CONF/CONF.LIB.md#conf.lib.2) Install Error QA Lib
+- [CONF.LIB.3](CONF/CONF.LIB.md#conf.lib.3) Install DJ Smoke Test Lib (0.6.1)
 
 ## Soundcard
 
