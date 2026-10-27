@@ -3,7 +3,7 @@
 
 | PASS | FAIL | Build # | Timestamp | User |
 | :---: | :---: | :--- | :--- | :--- |
-| | | | | |
+| | |0.6.1r11 | |SM |
 
 
 **SMK.PBK.1.0** Configure
