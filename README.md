@@ -10,7 +10,7 @@ Welcome to **zero-bugs** (see what we did there?)... This is Zero's issue-report
 WIP
 
 ## QA Links:
-- [Test Directory](TEST_DIRECTORY.md)
+- [All Test Scripts](ALL_TEST_SCRIPTS.md)
 - [UI Glossary](UI_GLOSSARY.md)
 - [QA Source Files](docs/qa_files.md)
 - [How to Publish Test Results](docs/how_to_execute_run.md)

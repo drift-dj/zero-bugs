@@ -10,7 +10,7 @@
 
 | Pass |          ID           | Action | Reference |
 | :---: | :------------------- | --------: | :------- |
-|  | SMOK.PBK.1.0.0 | Configure | [[CONF.LIB.3](../../CONF/CONF.LIB.md#conf.lib.3)] DJ Smoke Test Lib (0.6.1) |
+|  | SMOK.PBK.1.0.0 | Configure | [[CONF.LIB.3](../../CONF/LIB/CONF.LIB.3_DJ_Smoke_Test_Lib.md)] DJ Smoke Test Lib (0.6.1) |
 |  | SMOK.PBK.1.0.1 | Complete | [[TST.MIX.1](../../TST/MIX/TST.MIX.1_Preset.md)] Load Headphone DJ Preset |
 |  | SMOK.PBK.1.0.2 | Connect | Stereo headphones or speaker to [[Output 1](xxx.md)] |
 |  | SMOK.PBK.1.0.3 | Deploy<br>Widget | [[Memory Debug](xxx.md)] - monitor throughout test for steady-state memory leak |
