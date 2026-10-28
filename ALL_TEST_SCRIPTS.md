@@ -9,20 +9,20 @@
 ## Library
 
 ### TST.LIB.1 Playlists Menu
-- ~~[TST.LIB.1.0](xx.md) Load Song~~
-- ~~[TST.LIB.1.1](xx.md) Edit Song~~
-- ~~[TST.LIB.1.2](xxx.md) Create New Playlist~~
-- ~~[TST.LIB.1.3](xxx.md) Delete Playlist~~
-- ~~[TST.LIB.1.4](xxx.md) Rename Playlist~~
-- ~~[TST.LIB.1.5](xxx.md) Add Song to Playlist~~
-- ~~[TST.LIB.1.6](xxx.md) Move Song in Playlist~~
-- ~~[TST.LIB.1.7](xxx.md) Remove Song from Playlist~~
+- [TST.LIB.1.0](TST/LIB/1_Playlists_Menu/TST.LIB.1.0_Playlist_Load_Song.md) Load Song
+- [TST.LIB.1.1](TST/LIB/1_Playlists_Menu/TST.LIB.1.1_Playlist_Edit_Song.md) Edit Song
+- [TST.LIB.1.2](TST/LIB/1_Playlists_Menu/TST.LIB.1.2_Playlist_New.md) Create New Playlist
+- [TST.LIB.1.3](TST/LIB/1_Playlists_Menu/TST.LIB.1.3_Playlist_Delete.md) Delete Playlist
+- [TST.LIB.1.4](TST/LIB/1_Playlists_Menu/TST.LIB.1.4_Playlist_Rename.md) Rename Playlist
+- [TST.LIB.1.5](TST/LIB/1_Playlists_Menu/TST.LIB.1.5_Playlist_Add_Song.md) Add Song to Playlist
+- [TST.LIB.1.6](TST/LIB/1_Playlists_Menu/TST.LIB.1.6_Playlist_Move_Song.md) Move Song in Playlist
+- [TST.LIB.1.7](TST/LIB/1_Playlists_Menu/TST.LIB.1.7_Playlist_Remove_Song.md) Remove Song from Playlist
 
 ### TST.LIB.2 Artists Menu
-- ~~[TST.LIB.2.0](xx.md) Load Song~~
-- ~~[TST.LIB.2.1](xx.md) Edit Song~~
-- ~~[TST.LIB.2.2](xx.md) Add to Playlist~~
-- ~~[TST.LIB.2.3](xx.md) Remove Song~~
+- [TST.LIB.2.0](TST/LIB/2_Artists_Menu/TST.LIB.2.0_Artists_Load_Song.md) Load Song
+- [TST.LIB.2.1](TST/LIB/2_Artists_Menu/TST.LIB.2.1_Artists_Edit_Song.md) Edit Song
+- [TST.LIB.2.2](TST/LIB/2_Artists_Menu/TST.LIB.2.2_Artists_Add_To_Playlist.md) Add to Playlist
+- [TST.LIB.2.3](TST/LIB/2_Artists_Menu/TST.LIB.2.3_Artists_Remove_Song.md) Remove Song
 
 ### TST.LIB.3 Genre Menu
 - ~~[TST.LIB.3.0](xx.md) Load Song~~
@@ -54,7 +54,19 @@
 - ~~[TST.LIB.7.2](xx.md) Drive Mode~~
 
 ### TST.LIB.8 Song Edit
-- ~~[TST.LIB.8.0](TST/LIB/8_Song_Edit/TST.LIB.8_Song_Edit.md#TST.LIB.8.0) Remove Song~~
+- [TST.LIB.8.0](TST/LIB/8_Song_Edit/TST.LIB.8.0_Song_Edit_Artist.md) Edit Artist
+- [TST.LIB.8.1](TST/LIB/8_Song_Edit/TST.LIB.8.1_Song_Edit_Title.md) Edit Title
+- [TST.LIB.8.2](TST/LIB/8_Song_Edit/TST.LIB.8.2_Song_Edit_Add_Cuepoint.md) Add Cuepoint
+- [TST.LIB.8.3](TST/LIB/8_Song_Edit/TST.LIB.8.3_Song_Edit_Edit_Cuepoint.md) Edit Cuepoint
+- [TST.LIB.8.4](TST/LIB/8_Song_Edit/TST.LIB.8.4_Song_Edit_Remove_Cuepoint.md) Remove Cuepoint
+- [TST.LIB.8.5](TST/LIB/8_Song_Edit/TST.LIB.8.5_Song_Edit_Add_Beatgrid.md) Add Beatgrid
+- [TST.LIB.8.6](TST/LIB/8_Song_Edit/TST.LIB.8.6_Song_Edit_Edit_Beatgrid.md) Edit Beatgrid
+- [TST.LIB.8.7](TST/LIB/8_Song_Edit/TST.LIB.8.7_Song_Edit_Key.md) Edit Key
+- [TST.LIB.8.8](TST/LIB/8_Song_Edit/TST.LIB.8.8_Song_Edit_Genre.md) Edit Genre
+- [TST.LIB.8.9](TST/LIB/8_Song_Edit/TST.LIB.8.9_Song_Edit_Label.md) Edit Label
+- [TST.LIB.8.10](TST/LIB/8_Song_Edit/TST.LIB.8.10_Song_Edit_Release_Date.md) Edit Release Date
+- [TST.LIB.8.11](TST/LIB/8_Song_Edit/TST.LIB.8.11_Song_Edit_Filepath.md) Edit Filepath
+- [TST.LIB.8.12](TST/LIB/8_Song_Edit/TST.LIB.8.12_Song_Edit_Remove_Song.md) Remove Song
 
 ### TST.LIB.9 Import
 
