@@ -2,103 +2,7 @@
 
 <DJ_PLAYLISTS Version="1.0.0">
   <PRODUCT Name="rekordbox" Version="6.8.5" Company="AlphaTheta"/>
-  <COLLECTION Entries="12">
-    <TRACK TrackID="87905449" Name="Water (ODM Mix)" Artist="Four Foot Louise"
-           Composer="" Album="Four Foot Louise" Grouping="" Genre="House"
-           Kind="MP3 File" Size="12853803" TotalTime="346" DiscNumber="0"
-           TrackNumber="1" Year="2024" AverageBpm="124.00" DateAdded="2026-10-19"
-           BitRate="0" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
-           Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/dj_playback_smoke_01/music/Four%20Foot%20Louise%20-%20Blackwater%20(ODM%20Mix).mp3"
-           Remixer="" Tonality="Ab" Label="" Mix="">
-      <TEMPO Inizio="0.096" Bpm="124.00" Metro="4/4" Battito="1"/>
-      <POSITION_MARK Name="" Type="0" Start="0.096" Num="0" Red="40" Green="226" Blue="20"/>
-      <POSITION_MARK Name="" Type="0" Start="123.967" Num="1" Red="40" Green="226"
-                     Blue="20"/>
-      <POSITION_MARK Name="" Type="0" Start="178.160" Num="2" Red="40" Green="226"
-                     Blue="20"/>
-      <POSITION_MARK Name="" Type="0" Start="255.580" Num="3" Red="40" Green="226"
-                     Blue="20"/>
-    </TRACK>
-    <TRACK TrackID="130400370" Name="Cornell West (ODM Mix)" Artist="Four Foot Louise"
-           Composer="" Album="Four Foot Louise" Grouping="" Genre="Tech House"
-           Kind="MP3 File" Size="5484359" TotalTime="342" DiscNumber="0"
-           TrackNumber="5" Year="0" AverageBpm="248.00" DateAdded="2026-10-19"
-           BitRate="128" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
-           Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/dj_playback_smoke_01/music/Four%20Foot%20Louise%20-%20Cornell%20West%20(ODM%20Mix).mp3"
-           Remixer="" Tonality="Ab" Label="" Mix="">
-      <TEMPO Inizio="0.063" Bpm="248.00" Metro="4/4" Battito="3"/>
-      <POSITION_MARK Name="" Type="0" Start="0.546" Num="0" Red="40" Green="226" Blue="20"/>
-      <POSITION_MARK Name="" Type="0" Start="93.450" Num="1" Red="40" Green="226"
-                     Blue="20"/>
-    </TRACK>
-    <TRACK TrackID="195204390" Name="Kerri Chandler" Artist="Four Foot Louise"
-           Composer="" Album="Four Foot Louise" Grouping="" Genre="House"
-           Kind="MP3 File" Size="11873825" TotalTime="314" DiscNumber="0"
-           TrackNumber="2" Year="0" AverageBpm="123.00" DateAdded="2026-10-19"
-           BitRate="0" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
-           Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/dj_playback_smoke_01/music/Four%20Foot%20Louise%20-%20Kerri%20Chandler.mp3"
-           Remixer="" Tonality="Bbm" Label="" Mix="">
-      <TEMPO Inizio="0.116" Bpm="123.00" Metro="4/4" Battito="1"/>
-      <POSITION_MARK Name="" Type="0" Start="0.116" Num="0" Red="40" Green="226" Blue="20"/>
-      <POSITION_MARK Name="" Type="0" Start="93.776" Num="1" Red="40" Green="226"
-                     Blue="20"/>
-    </TRACK>
-    <TRACK TrackID="72192140" Name="Outside the Veil (ODM Mix)" Artist="Four Foot Louise"
-           Composer="" Album="Four Foot Louise" Grouping="" Genre="Techno"
-           Kind="MP3 File" Size="11371975" TotalTime="299" DiscNumber="0"
-           TrackNumber="9" Year="0" AverageBpm="125.00" DateAdded="2026-10-19"
-           BitRate="0" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
-           Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/dj_playback_smoke_01/music/Four%20Foot%20Louise%20-%20Outside%20the%20Veil%20(ODM%20Mix).mp3"
-           Remixer="" Tonality="Ebm" Label="" Mix="">
-      <TEMPO Inizio="0.275" Bpm="125.00" Metro="4/4" Battito="3"/>
-      <POSITION_MARK Name="" Type="0" Start="31.955" Num="1" Red="40" Green="226"
-                     Blue="20"/>
-    </TRACK>
-    <TRACK TrackID="80735549" Name="The Legend of Pat Nice" Artist="Four Foot Louise"
-           Composer="" Album="Four Foot Louise" Grouping="" Genre="Tech House"
-           Kind="MP3 File" Size="7456073" TotalTime="215" DiscNumber="0"
-           TrackNumber="4" Year="2024" AverageBpm="61.50" DateAdded="2026-10-19"
-           BitRate="0" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
-           Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/dj_playback_smoke_01/music/Four%20Foot%20Louise%20-%20Pat%20Nice.mp3"
-           Remixer="" Tonality="Am" Label="" Mix="">
-      <TEMPO Inizio="0.051" Bpm="61.50" Metro="4/4" Battito="1"/>
-      <POSITION_MARK Name="" Type="0" Start="23.466" Num="0" Red="40" Green="226"
-                     Blue="20"/>
-    </TRACK>
-    <TRACK TrackID="31134241" Name="Magic" Artist="Four Foot Louise" Composer=""
-           Album="Four Foot Louise" Grouping="" Genre="Tech House" Kind="MP3 File"
-           Size="9156313" TotalTime="265" DiscNumber="0" TrackNumber="7"
-           Year="0" AverageBpm="123.00" DateAdded="2026-10-19" BitRate="0"
-           SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/dj_playback_smoke_01/music/Four%20Foot%20Louise%20-%20Magic.mp3"
-           Remixer="" Tonality="F" Label="" Mix="">
-      <TEMPO Inizio="0.121" Bpm="123.00" Metro="4/4" Battito="1"/>
-    </TRACK>
-    <TRACK TrackID="80610542" Name="Teacher" Artist="Four Foot Louise" Composer=""
-           Album="Four Foot Louise" Grouping="" Genre="House" Kind="MP3 File"
-           Size="9747896" TotalTime="259" DiscNumber="0" TrackNumber="3"
-           Year="0" AverageBpm="123.99" DateAdded="2026-10-19" BitRate="0"
-           SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/dj_playback_smoke_01/music/Four%20Foot%20Louise%20-%20Teacher.mp3"
-           Remixer="" Tonality="Db" Label="" Mix="">
-      <TEMPO Inizio="0.220" Bpm="123.99" Metro="4/4" Battito="1"/>
-      <POSITION_MARK Name="" Type="0" Start="0.220" Num="0" Red="40" Green="226" Blue="20"/>
-    </TRACK>
-    <TRACK TrackID="235669560" Name="We have to do with the past only as we can make it useful to the present and to the future. To all inspiring motives, to noble deeds which can be gained from the past, we are welcome. But now is the time, the important time. Your fathers have lived, died, "
-           Artist="We have to do with the past only as we can make it useful to the present and to the future. To all inspiring motives, to noble deeds which can be gained from the past, we are welcome. But now is the time, the important time. Your fathers have lived, died, "
-           Composer="" Album="We have to do with the past only as we can make it useful to the present and to the future. To all inspiring motives, to noble deeds which can be gained from the past, we are welcome. But now is the time, the important time. Your fathers have lived, died, "
-           Grouping="" Genre="We have to do with the past only as we can make it useful to the present and to the future. To all inspiring motives, to noble deeds which can be gained from the past, we are welcome. But now is the time, the important time. Your fathers have lived, died, "
-           Kind="M4A File" Size="780782" TotalTime="30" DiscNumber="0" TrackNumber="0"
-           Year="0" AverageBpm="0.00" DateAdded="2026-10-19" BitRate="192"
-           SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/merge/rb_xml/ramp_s_44_192k_t0-Our%20minds%20are%20made%20up%20to%20live%20here%20if%20we%20can,%20or%20die%20here%20if%20we%20must.m4a"
-           Remixer="" Tonality="Bbm" Label="" Mix=""/>
-    <TRACK TrackID="221176018" Name="Such are the limitations of the common mind, and so thoroughly engrossing are the cares of common life, that only the few among men can discern through the glitter and dazzle of present prosperity the dark outlines of approaching disasters, even though the"
-           Artist="Such are the limitations of the common mind, and so thoroughly engrossing are the cares of common life, that only the few among men can discern through the glitter and dazzle of present prosperity the dark outlines of approaching disasters, even though the"
-           Composer="" Album="Such are the limitations of the common mind, and so thoroughly engrossing are the cares of common life, that only the few among men can discern through the glitter and dazzle of present prosperity the dark outlines of approaching disasters, even though the"
-           Grouping="" Genre="Such are the limitations of the common mind, and so thoroughly engrossing are the cares of common life, that only the few among men can discern through the glitter and dazzle of present prosperity the dark outlines of approaching disasters, even though the"
-           Kind="FLAC File" Size="3372644" TotalTime="30" DiscNumber="0"
-           TrackNumber="0" Year="0" AverageBpm="0.00" DateAdded="2026-10-19"
-           BitRate="0" SampleRate="48000" Comments="To FLAC Converter 2 (amvidia.com)"
-           PlayCount="0" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/merge/rb_xml/ramp_st_48_f32_t0-Our%20minds%20are%20made%20up%20to%20live%20here%20if%20we%20can,%20or%20die%20here%20if%20we%20must.flac"
-           Remixer="" Tonality="Bbm" Label="" Mix=""/>
+  <COLLECTION Entries="6">
     <TRACK TrackID="147186818" Name="44k AAC Ramp" Artist="" Composer=""
            Album="" Grouping="" Genre="" Kind="M4A File" Size="778922" TotalTime="30"
            DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00" DateAdded="2026-10-19"
@@ -115,30 +19,44 @@
            Album="" Grouping="" Genre="" Kind="WAV File" Size="10595080"
            TotalTime="29" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00"
            DateAdded="2026-10-19" BitRate="2822" SampleRate="44100" Comments=""
-           PlayCount="0" Rating="0" Location="file://not_a_valid_filepath.wav"
+           PlayCount="0" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/format/wav/ramp_st_44_f32_t0.wav"
+           Remixer="" Tonality="Bbm" Label="" Mix=""/>
+    <TRACK TrackID="239400317" Name="T6 - 1 Such are the limitations of the common mind, and so thoroughly engrossing are the cares of common life, that only the few among men can discern through the glitter and dazzle of present prosperity the dark outlines of approaching disasters, even tho"
+           Artist="T6 Such are the limitations of the common mind, and so thoroughly engrossing are the cares of common life, that only the few among men can discern through the glitter and dazzle of present prosperity the dark outlines of approaching disasters, even though "
+           Composer="" Album="T6 Such are the limitations of the common mind, and so thoroughly engrossing are the cares of common life, that only the few among men can discern through the glitter and dazzle of present prosperity the dark outlines of approaching disasters, even though "
+           Grouping="" Genre="T6 Such are the limitations of the common mind, and so thoroughly engrossing are the cares of common life, that only the few among men can discern through the glitter and dazzle of present prosperity the dark outlines of approaching disasters, even though "
+           Kind="MP3 File" Size="516932" TotalTime="32" DiscNumber="0" TrackNumber="0"
+           Year="2026" AverageBpm="123.00" DateAdded="2026-10-28" BitRate="128"
+           SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/tag/t6/magic-A-130_t6.mp3"
+           Remixer="" Tonality="Gm" Label="" Mix="">
+      <TEMPO Inizio="0.090" Bpm="123.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="203756971" Name="We have to do with the past only as we can make it useful to the present and to the future. To all inspiring motives, to noble deeds which can be gained from the past, we are welcome. But now is the time, the important time. Your fathers have lived, died, "
+           Artist="We have to do with the past only as we can make it useful to the present and to the future. To all inspiring motives, to noble deeds which can be gained from the past, we are welcome. But now is the time, the important time. Your fathers have lived, died, "
+           Composer="" Album="We have to do with the past only as we can make it useful to the present and to the future. To all inspiring motives, to noble deeds which can be gained from the past, we are welcome. But now is the time, the important time. Your fathers have lived, died, "
+           Grouping="" Genre="We have to do with the past only as we can make it useful to the present and to the future. To all inspiring motives, to noble deeds which can be gained from the past, we are welcome. But now is the time, the important time. Your fathers have lived, died, "
+           Kind="M4A File" Size="780782" TotalTime="30" DiscNumber="0" TrackNumber="0"
+           Year="0" AverageBpm="0.00" DateAdded="2026-10-28" BitRate="192"
+           SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/format/aac/ramp_s_44_192k_t0-Our%20minds%20are%20made%20up%20to%20live%20here%20if%20we%20can,%20or%20die%20here%20if%20we%20must.m4a"
+           Remixer="" Tonality="Bbm" Label="" Mix=""/>
+    <TRACK TrackID="96854890" Name="Such are the limitations of the common mind, and so thoroughly engrossing are the cares of common life, that only the few among men can discern through the glitter and dazzle of present prosperity the dark outlines of approaching disasters, even though the"
+           Artist="Such are the limitations of the common mind, and so thoroughly engrossing are the cares of common life, that only the few among men can discern through the glitter and dazzle of present prosperity the dark outlines of approaching disasters, even though the"
+           Composer="" Album="Such are the limitations of the common mind, and so thoroughly engrossing are the cares of common life, that only the few among men can discern through the glitter and dazzle of present prosperity the dark outlines of approaching disasters, even though the"
+           Grouping="" Genre="Such are the limitations of the common mind, and so thoroughly engrossing are the cares of common life, that only the few among men can discern through the glitter and dazzle of present prosperity the dark outlines of approaching disasters, even though the"
+           Kind="FLAC File" Size="3372644" TotalTime="30" DiscNumber="0"
+           TrackNumber="0" Year="0" AverageBpm="0.00" DateAdded="2026-10-28"
+           BitRate="0" SampleRate="48000" Comments="To FLAC Converter 2 (amvidia.com)"
+           PlayCount="0" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/format/flac/ramp_st_48_f32_t0-Our%20minds%20are%20made%20up%20to%20live%20here%20if%20we%20can,%20or%20die%20here%20if%20we%20must.flac"
            Remixer="" Tonality="Bbm" Label="" Mix=""/>
   </COLLECTION>
   <PLAYLISTS>
-    <NODE Type="0" Name="ROOT" Count="3">
+    <NODE Type="0" Name="ROOT" Count="1">
       <NODE Name="We have to do with the past only as we can make it useful to the present and to the future. To all inspiring motives, to noble deeds which can be gained from the past, we are welcome. But now is the time, the important time. Your fathers have lived, died, and you must do your work."
-            Type="1" KeyType="0" Entries="5">
-        <TRACK Key="221176018"/>
-        <TRACK Key="235669560"/>
+            Type="1" KeyType="0" Entries="4">
         <TRACK Key="147186818"/>
         <TRACK Key="241487998"/>
         <TRACK Key="150893125"/>
-      </NODE>
-      <NODE Name="Techno" Type="1" KeyType="0" Entries="3">
-        <TRACK Key="31134241"/>
-        <TRACK Key="72192140"/>
-        <TRACK Key="80610542"/>
-      </NODE>
-      <NODE Name="Mix" Type="1" KeyType="0" Entries="5">
-        <TRACK Key="80610542"/>
-        <TRACK Key="130400370"/>
-        <TRACK Key="72192140"/>
-        <TRACK Key="80735549"/>
-        <TRACK Key="195204390"/>
+        <TRACK Key="239400317"/>
       </NODE>
     </NODE>
   </PLAYLISTS>
