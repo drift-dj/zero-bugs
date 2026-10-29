@@ -10,9 +10,8 @@ Welcome to **zero-bugs** (see what we did there?)... This is Zero's issue-report
 WIP
 
 ## QA Links:
-- **0.6.1**
-    - [0.6.1 Smoke Test Scripts](RUN/0.6.1/0.6.1.smoke.md)
-    - [0.6.1 Regression Test Scripts](RUN/0.6.1/0.6.1.regression.md)
+- **Release Test Plans**
+    - [0.6.1](plans/0.6.1/0.6.1.plan.md)
 - [All Test Scripts](ALL_TEST_SCRIPTS.md)
 - [UI Glossary](UI_GLOSSARY.md)
 - [QA Source Files](docs/qa_files.md)
