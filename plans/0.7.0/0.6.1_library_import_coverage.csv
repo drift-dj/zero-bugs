@@ -1,0 +1,40 @@
+PASS,FAIL,Script
+,,Single File Import
+,,TST.LIB.9.0.0 New File - Empty Library
+,,TST.LIB.9.0.1 New File - Populated Library
+,,TST.LIB.9.0.2 Existing file - Update BPM/Key
+,,TST.LIB.9.0.3 Existing file - Ignore BPM/Key
+,,TST.LIB.9.0.4 New file - Error - Unsupported Sample Rate
+,,TST.LIB.9.0.5 New file - Error - Unsupported Codec
+,,TST.LIB.9.0.6 New file - Error - Unsupported Filetype
+,,Single File USB Import
+,,TST.LIB.9.1.0 New File - USB Drive
+,,TST.LIB.9.1.1 Existing file - USB Drive
+,,Directory Import
+,,TST.LIB.9.2.0 Directory Import Options Menu
+,,TST.LIB.9.2.1 Dir of New Files
+,,TST.LIB.9.2.2 Dir of Existing Files - Skip
+,,TST.LIB.9.2.3 Dir of Existing Files - Overwrite
+,,TST.LIB.9.2.4 Dir of Existing Files - Create New
+,,TST.LIB.9.2.5 Dir of Existing Files - Merge - ID3 Tag
+,,TST.LIB.9.2.6 Dir of Existing Files - Merge - Library
+,,TST.LIB.9.2.7 Dir of Mixed New/Existing Files - Skip Existing
+,,TST.LIB.9.2.8 Dir of Mixed New/Existing Files - Merge Existing
+,,Directory USB Import
+,,TST.LIB.9.3.0 Dir of New Files - USB Drive
+,,TST.LIB.9.3.1 Dir of Mixed New/Existing Files - Merge Existing - USB Drive
+,,Rekordbox XML Import
+,,TST.LIB.9.4.0 Rekordbox XML Import Options Menu
+,,TST.LIB.9.4.1 New Rekordbox XML
+,,TST.LIB.9.4.2 Existing Rekordbox XML - Skip
+,,TST.LIB.9.4.3 Mixed New/Existing Rekordbox XML - Merge
+,,Rekordbox XML USB Import
+,,TST.LIB.9.5.0 New Rekordbox XML - USB Drive
+,,TST.LIB.9.5.1 Mixed New/Existing Rekordbox XML - Merge - USB Drive
+,,Import Edge Cases
+,,TST.LIB.9.6.0 Fix Song Error
+,,TST.LIB.9.6.1 Change Song Path
+,,TST.LIB.9.6.2 Rescan Codec Error
+,,TST.LIB.9.6.3 Rescan File Format Error
+,,TST.LIB.9.6.4 Long ID3 Tags
+,,TST.LIB.9.6.5 Long Rekordbox Strings

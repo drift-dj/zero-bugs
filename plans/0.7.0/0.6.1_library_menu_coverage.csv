@@ -1,0 +1,17 @@
+PASS,FAIL,Script
+,,Playlists Menu
+,,TST.LIB.1.0 Load Song
+,,TST.LIB.1.1 Edit Song
+,,TST.LIB.1.2 Create New Playlist
+,,TST.LIB.1.3 Add Song to Playlist
+,,TST.LIB.1.4 Move Song in Playlist
+,,TST.LIB.1.5 Rename Playlist
+,,TST.LIB.1.6 Remove Song from Playlist
+,,TST.LIB.1.7 Delete Playlist
+,,Artists Menu
+,,TST.LIB.2.0 Load Song
+,,TST.LIB.2.1 Edit Song
+,,TST.LIB.2.2 Add to Playlist
+,,TST.LIB.2.3 Delete Song
+,,Song Edit View
+,,TST.LIB.8.12 Delete Song
