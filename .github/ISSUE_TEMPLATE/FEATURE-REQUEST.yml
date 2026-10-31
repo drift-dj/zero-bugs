@@ -1,8 +1,7 @@
 name: Feature Request
 description: Request new functionality for Zero.
-title: "[FEATURE REQUEST]: "
+title: "[FR]: "
 labels: ["FEATURE_REQ"]
-type: feature request
 body:
   - type: markdown
     attributes:
