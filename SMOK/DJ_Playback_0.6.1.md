@@ -73,7 +73,7 @@
 |  | 56 | Control | Deck 1 Nudge to beatmatch with Deck 2 |
 |  | 57 | Control | [[Crossfade](xxx.md)] Centered |
 | | |  | |
-| | | **Check Tempo Adjust** | |
+| | | **Momentary Deck Select** | |
 |  | 58 | Control | Deck 1 Btn Press |
 |  | 59 | Control | Deck 2 Btn Press + Hold thru step 64 |
 |  | 60 | Control | Deck 2 Adjust EQ |
