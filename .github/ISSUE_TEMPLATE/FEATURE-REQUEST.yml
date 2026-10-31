@@ -1,0 +1,26 @@
+name: Feature Request
+description: Request new functionality for Zero.
+title: "[FEATURE REQUEST]: "
+labels: ["FEATURE_REQ"]
+type: feature request
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time! Zero is already better because you're here...
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: Leave your Discord username or email so we can follow up.
+      placeholder: ex. @driftdjindustries
+    validations:
+      required: false
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: New Feature:
+      description: What would you like to see?
+      placeholder: Tell us about your idea!
+    validations:
+      required: true
