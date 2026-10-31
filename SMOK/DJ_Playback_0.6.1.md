@@ -75,7 +75,7 @@
 | | |  | |
 | | | **Check Tempo Adjust** | |
 |  | 58 | Control | Deck 1 Btn Press |
-|  | 59 | Control | Deck 2 Btn Hold |
+|  | 59 | Control | Deck 2 Btn Press + Hold thru step 64 |
 |  | 60 | Control | Deck 2 Adjust EQ |
 |  | 61 | Control | Deck 2 Nudge Playback |
 |  | 62 | Control | Deck 2 Pause |
