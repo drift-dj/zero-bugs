@@ -8,9 +8,9 @@
 |  | 3 | Navigate | Control Panels/USB |
 |  | 4 | Verify | USB Mode = Offline |
 |  | 5 | Navigate | Library/+Add Music |
-|  | 6 | Verify | Drive Mode appears w/empty host<br>![Empty Host](images/.5.bmp) |
+|  | 6 | Verify | Drive Mode appears w/empty host |
 |  | 7 | Connect | USB-C cable between host and Zero |
-|  | 8 | Verify | Host icon appears<br>![Empty Host](images/.7.bmp) |
+|  | 8 | Verify | Host icon appears |
 |  | 9 | Verify | Zero mounts on Host OS |
 
 **If Zero has mounted on Host, test has passed.**

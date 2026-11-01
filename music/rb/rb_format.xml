@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DJ_PLAYLISTS Version="1.0.0">
+  <PRODUCT Name="rekordbox" Version="6.8.5" Company="AlphaTheta"/>
+  <COLLECTION Entries="15">
+    <TRACK TrackID="153474952" Name="ramp_s_44_192k_t0" Artist="" Composer=""
+           Album="" Grouping="" Genre="" Kind="M4A File" Size="780782" TotalTime="30"
+           DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00" DateAdded="2026-10-31"
+           BitRate="192" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/format/aac/ramp_s_44_192k_t0.m4a"
+           Remixer="" Tonality="Bbm" Label="" Mix=""/>
+    <TRACK TrackID="29221611" Name="44k AAC Ramp" Artist="" Composer=""
+           Album="" Grouping="" Genre="" Kind="M4A File" Size="779758" TotalTime="30"
+           DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00" DateAdded="2026-10-31"
+           BitRate="192" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/format/aac/ramp_m_44_192k_t0.m4a"
+           Remixer="" Tonality="Gm" Label="" Mix=""/>
+    <TRACK TrackID="223010070" Name="ramp_m_44_f32_t0" Artist="" Composer=""
+           Album="" Grouping="" Genre="" Kind="WAV File" Size="5303080"
+           TotalTime="29" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00"
+           DateAdded="2026-10-31" BitRate="1411" SampleRate="44100" Comments=""
+           PlayCount="0" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/format/wav/ramp_m_44_f32_t0.wav"
+           Remixer="" Tonality="Bbm" Label="" Mix=""/>
+    <TRACK TrackID="98325659" Name="ramp_st_48_f32_t0" Artist="" Composer=""
+           Album="" Grouping="" Genre="" Kind="WAV File" Size="11531994"
+           TotalTime="29" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00"
+           DateAdded="2026-10-31" BitRate="3072" SampleRate="48000" Comments=""
+           PlayCount="0" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/format/wav/ramp_st_48_f32_t0.wav"
+           Remixer="" Tonality="Bm" Label="" Mix=""/>
+    <TRACK TrackID="26225783" Name="ramp_st_44_s16_t0" Artist="" Composer=""
+           Album="" Grouping="" Genre="" Kind="WAV File" Size="5303080"
+           TotalTime="29" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00"
+           DateAdded="2026-10-31" BitRate="1411" SampleRate="44100" Comments=""
+           PlayCount="0" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/format/wav/ramp_st_44_s16_t0.wav"
+           Remixer="" Tonality="Bbm" Label="" Mix=""/>
+    <TRACK TrackID="239330756" Name="ramp_st_44_f32_t0" Artist="" Composer=""
+           Album="" Grouping="" Genre="" Kind="WAV File" Size="10595080"
+           TotalTime="29" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00"
+           DateAdded="2026-10-31" BitRate="2822" SampleRate="44100" Comments=""
+           PlayCount="0" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/format/wav/ramp_st_44_f32_t0.wav"
+           Remixer="" Tonality="Bbm" Label="" Mix=""/>
+    <TRACK TrackID="105572601" Name="ramp_m_44_f32_t0" Artist="" Composer=""
+           Album="" Grouping="" Genre="" Kind="AIFF File" Size="10594902"
+           TotalTime="29" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00"
+           DateAdded="2026-10-31" BitRate="2822" SampleRate="44100" Comments=""
+           PlayCount="0" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/format/aif/ramp_m_44_f32_t0.aif"
+           Remixer="" Tonality="Bbm" Label="" Mix=""/>
+    <TRACK TrackID="54627440" Name="ramp_st_44_s16_t0" Artist="" Composer=""
+           Album="" Grouping="" Genre="" Kind="AIFF File" Size="5302902"
+           TotalTime="29" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00"
+           DateAdded="2026-10-31" BitRate="1411" SampleRate="44100" Comments=""
+           PlayCount="0" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/format/aif/ramp_st_44_s16_t0.aif"
+           Remixer="" Tonality="Bbm" Label="" Mix=""/>
+    <TRACK TrackID="11480663" Name="ramp_st_44_f32_t0" Artist="" Composer=""
+           Album="" Grouping="" Genre="" Kind="AIFF File" Size="10594902"
+           TotalTime="29" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00"
+           DateAdded="2026-10-31" BitRate="2822" SampleRate="44100" Comments=""
+           PlayCount="0" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/format/aif/ramp_st_44_f32_t0.aif"
+           Remixer="" Tonality="Bbm" Label="" Mix=""/>
+    <TRACK TrackID="92832857" Name="ramp_m_44_f32_t0" Artist="" Composer=""
+           Album="" Grouping="" Genre="" Kind="FLAC File" Size="2057608"
+           TotalTime="30" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00"
+           DateAdded="2026-10-31" BitRate="0" SampleRate="44100" Comments="To FLAC Converter 2 (amvidia.com)"
+           PlayCount="0" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/format/flac/ramp_m_44_f32_t0.flac"
+           Remixer="" Tonality="Am" Label="" Mix=""/>
+    <TRACK TrackID="137242591" Name="ramp_st_44_f32_t0" Artist="" Composer=""
+           Album="" Grouping="" Genre="" Kind="FLAC File" Size="3168690"
+           TotalTime="30" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00"
+           DateAdded="2026-10-31" BitRate="0" SampleRate="44100" Comments="To FLAC Converter 2 (amvidia.com)"
+           PlayCount="0" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/format/flac/ramp_st_44_f32_t0.flac"
+           Remixer="" Tonality="Abm" Label="" Mix=""/>
+    <TRACK TrackID="211459004" Name="ramp_st_44_s16_t0" Artist="" Composer=""
+           Album="" Grouping="" Genre="" Kind="FLAC File" Size="1550484"
+           TotalTime="30" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00"
+           DateAdded="2026-10-31" BitRate="0" SampleRate="44100" Comments="To FLAC Converter 2 (amvidia.com)"
+           PlayCount="0" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/format/flac/ramp_st_44_s16_t0.flac"
+           Remixer="" Tonality="Abm" Label="" Mix=""/>
+    <TRACK TrackID="168351550" Name="ramp_m_44_320" Artist="" Composer=""
+           Album="" Grouping="" Genre="" Kind="MP3 File" Size="1206774"
+           TotalTime="30" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00"
+           DateAdded="2026-10-31" BitRate="320" SampleRate="44100" Comments=""
+           PlayCount="0" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/format/mp3/ramp_m_44_320.mp3"
+           Remixer="" Tonality="Bbm" Label="" Mix=""/>
+    <TRACK TrackID="241917786" Name="ramp_jst_44_320" Artist="" Composer=""
+           Album="" Grouping="" Genre="" Kind="MP3 File" Size="1206774"
+           TotalTime="30" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00"
+           DateAdded="2026-10-31" BitRate="320" SampleRate="44100" Comments=""
+           PlayCount="0" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/format/mp3/ramp_jst_44_320.mp3"
+           Remixer="" Tonality="Bbm" Label="" Mix=""/>
+    <TRACK TrackID="241626081" Name="ramp_st_44_320" Artist="" Composer=""
+           Album="" Grouping="" Genre="" Kind="MP3 File" Size="1206774"
+           TotalTime="30" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00"
+           DateAdded="2026-10-31" BitRate="320" SampleRate="44100" Comments=""
+           PlayCount="0" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/format/mp3/ramp_st_44_320.mp3"
+           Remixer="" Tonality="Bbm" Label="" Mix=""/>
+  </COLLECTION>
+  <PLAYLISTS>
+    <NODE Type="0" Name="ROOT" Count="0"/>
+  </PLAYLISTS>
+</DJ_PLAYLISTS>
