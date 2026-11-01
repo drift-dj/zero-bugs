@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DJ_PLAYLISTS Version="1.0.0">
+  <PRODUCT Name="rekordbox" Version="6.8.5" Company="AlphaTheta"/>
+  <COLLECTION Entries="3">
+    <TRACK TrackID="198261067" Name="Our minds are made up to live here if we can, or die here if we must; so every attempt to remove us will be, as it ought to be, labor lost. Here we are, and here we shall remain."
+           Artist="Our minds are made up to live here if we can, or die here if we must; so every attempt to remove us will be, as it ought to be, labor lost. Here we are, and here we shall remain."
+           Composer="" Album="Our minds are made up to live here if we can, or die here if we must; so every attempt to remove us will be, as it ought to be, labor lost. Here we are, and here we shall remain."
+           Grouping="" Genre="Our minds are made up to live here if we can, or die here if we must; so every attempt to remove us will be, as it ought to be, labor lost. Here we are, and here we shall remain."
+           Kind="MP3 File" Size="516932" TotalTime="32" DiscNumber="0" TrackNumber="0"
+           Year="0" AverageBpm="123.00" DateAdded="2026-10-31" BitRate="128"
+           SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/edge_cases/long_filename/magic-44-128k-st-Our%20minds%20are%20made%20up%20to%20live%20here%20if%20we%20can,%20or%20die%20here%20if%20we%20must.mp3"
+           Remixer="" Tonality="Gm" Label="" Mix="">
+      <TEMPO Inizio="0.090" Bpm="123.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="151688738" Name="We have to do with the past only as we can make it useful to the present and to the future. To all inspiring motives, to noble deeds which can be gained from the past, we are welcome. But now is the time, the important time. Your fathers have lived, died, "
+           Artist="We have to do with the past only as we can make it useful to the present and to the future. To all inspiring motives, to noble deeds which can be gained from the past, we are welcome. But now is the time, the important time. Your fathers have lived, died, "
+           Composer="" Album="We have to do with the past only as we can make it useful to the present and to the future. To all inspiring motives, to noble deeds which can be gained from the past, we are welcome. But now is the time, the important time. Your fathers have lived, died, "
+           Grouping="" Genre="We have to do with the past only as we can make it useful to the present and to the future. To all inspiring motives, to noble deeds which can be gained from the past, we are welcome. But now is the time, the important time. Your fathers have lived, died, "
+           Kind="MP3 File" Size="516932" TotalTime="32" DiscNumber="0" TrackNumber="0"
+           Year="0" AverageBpm="123.00" DateAdded="2026-10-31" BitRate="128"
+           SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/edge_cases/long_filename/magic-44-128k-st-We%20have%20to%20do%20with%20the%20past%20only%20as%20we%20can%20make%20it%20useful%20to%20the%20present%20and%20to%20the%20future.%20To%20all%20inspiring%20motives,%20to%20noble%20deeds%20which%20can%20be%20gained.mp3"
+           Remixer="" Tonality="Gm" Label="" Mix="">
+      <TEMPO Inizio="0.090" Bpm="123.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="34979224" Name="Such are the limitations of the common mind, and so thoroughly engrossing are the cares of common life, that only the few among men can discern through the glitter and dazzle of present prosperity the dark outlines of approaching disasters, even though the"
+           Artist="Such are the limitations of the common mind, and so thoroughly engrossing are the cares of common life, that only the few among men can discern through the glitter and dazzle of present prosperity the dark outlines of approaching disasters, even though the"
+           Composer="" Album="Such are the limitations of the common mind, and so thoroughly engrossing are the cares of common life, that only the few among men can discern through the glitter and dazzle of present prosperity the dark outlines of approaching disasters, even though the"
+           Grouping="" Genre="Such are the limitations of the common mind, and so thoroughly engrossing are the cares of common life, that only the few among men can discern through the glitter and dazzle of present prosperity the dark outlines of approaching disasters, even though the"
+           Kind="MP3 File" Size="516932" TotalTime="32" DiscNumber="0" TrackNumber="0"
+           Year="0" AverageBpm="123.00" DateAdded="2026-10-31" BitRate="128"
+           SampleRate="44100" Comments="" PlayCount="0" Rating="0" Location="file://localhost/Users/jaredwheeler/Documents/Drift/dev/zero-bugs/music/edge_cases/long_filename/magic-44-128k-st-Such%20are%20the%20limitations%20of%20the%20common%20mind,%20and%20so%20thoroughly%20engrossing%20are%20the%20cares%20of%20common%20life,%20that%20only%20the%20few%20among%20men%20can%20discern%20through.mp3"
+           Remixer="" Tonality="Gm" Label="" Mix="">
+      <TEMPO Inizio="0.090" Bpm="123.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+  </COLLECTION>
+  <PLAYLISTS>
+    <NODE Type="0" Name="ROOT" Count="1">
+      <NODE Name="Such are the limitations of the common mind, and so thoroughly engrossing are the cares of common life, that only the few among men can discern through the glitter and dazzle of present prosperity the dark outlines of approaching disasters, even though the"
+            Type="1" KeyType="0" Entries="3">
+        <TRACK Key="198261067"/>
+        <TRACK Key="34979224"/>
+        <TRACK Key="151688738"/>
+      </NODE>
+    </NODE>
+  </PLAYLISTS>
+</DJ_PLAYLISTS>
