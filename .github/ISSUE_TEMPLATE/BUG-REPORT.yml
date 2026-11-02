@@ -31,8 +31,9 @@ body:
       label: Version
       description: What version of Zero are you running?
       options:
-        - 0.6.1.* (Any version before 0.6.1.r12)
+        - 0.6.1.r15
         - 0.6.1.r12
+        - 0.6.1.* (Any version before 0.6.1.r12)
       default: 0
     validations:
       required: true
