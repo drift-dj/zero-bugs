@@ -23,17 +23,17 @@
 |  | 14 | Factory Reset | Lib |
 |  | 15 | Settings | Hide Unplayable Songs = true |
 |  | 16 | +Add Music -> Browse Files | music/format/[Scan this dir] |
-|  | 17 | Set Import Options | [4 Errors] = Import |
-|  | 18 | Verify | Import total = [18 songs] |
+|  | 17 | Set Import Options | [3 Errors] = Import |
+|  | 18 | Verify | Import total = [15 songs] |
 |  | 19 | Start Import | |
 |  | 20 | Verify Artists Menu | <ul><li>No Artist<ul><li>ramp_jst_44_320.mp3</li><li>ramp_m_44_320.mp3</li><li>ramp_m_44_f32_t0.aif</li><li>ramp_m_44_f32_t0.flac</li><li>ramp_m_44_f32_t0.wav</li><li>ramp_st_44_320.mp3</li><li>ramp_st_44_f32_t0.aif</li><li>ramp_st_44_f32_t0.flac</li><li>ramp_st_44_f32_t0.wav</li><li>ramp_st_44_s16_t0.aif</li><li>ramp_st_44_s16_t0.flac</li><li>ramp_st_44_s16_t0.wav</li></ul></li></ul> |
 |  | 21 | Settings | Hide Unplayable Songs = false |
-|  | 22 | Verify Errors Menu | <ul><li>No Artist<ul><li>44k AAC Ramp</li><li>Zero QA Artist - Magic</li><li>ramp_s_44_192k_t0.m4a</li><li>ramp_st_48_f32_t0.wav</li></ul></li></ul> |
+|  | 22 | Verify Errors Menu | <ul><li>No Artist<ul><li>44k AAC Ramp</li><li>ramp_s_44_192k_t0.m4a</li><li>ramp_st_48_f32_t0.wav</li></ul></li></ul> |
 |  | | | |
 |  |  | **Rekordbox Import** | |
 |  | 23 | Factory Reset | Lib |
 |  | 24 | Settings | Hide Unplayable Songs = true |
-|  | 25 | +Add Music -> Rekordbox XML | <ul><li>*XML:* music/rb/rb_long_string.xml</li><li>*Scan Dir:* music/edge_cases/long_filename</li></ul> |
+|  | 25 | +Add Music -> Rekordbox XML | <ul><li>*XML:* music/rb/rb_format.xml</li><li>*Scan Dir:* music/format[Scan this dir]</li></ul> |
 |  | 26 | Set Import Options | [1 Error] = Import |
 |  | 27 | Verify | Import total = [15 songs] |
 |  | 28 | Start Import | |
