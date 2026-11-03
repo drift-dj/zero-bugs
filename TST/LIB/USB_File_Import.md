@@ -25,10 +25,10 @@
 | :---: | :------------------- | --------: | :------- |
 |  | 1 | Factory Reset | Lib |
 |  | 2 | USB Setup | Set Host Mode + Attach Drive |
-|  | 3 | +Add Music -> Browse Files | [USB Drive]/music/merge/dir_set_a/[Scan this Dir] |
+|  | 3 | +Add Music -> Browse Files | [USB Drive]/music/file_import/dir_set_a/[Scan this Dir] |
 |  | 4 | Start Import |  |
 |  | 5 | Verify Artists Menu | <ul><li>Zero QA Artist<ul><li>Cornell West (ODM Mix)</li><li>Kerri Chandler</li><li>Magic</li></ul></li></ul> |
-|  | 6 | +Add Music -> Browse Files | [USB Drive]/music/merge/dir_set_c/[Scan this Dir] |
+|  | 6 | +Add Music -> Browse Files | [USB Drive]/music/file_import/dir_set_c/[Scan this Dir] |
 |  | 7 | Start Import |  |
 |  | 8 | Verify Artists Menu | <ul><li>Zero QA Artist<ul><li>Cornell West (ODM Mix) [126.2 : Bb]</li><li>Kerri Chandler [122 : Fm]</li><li>Magic [125 : C]</li><li>Outside the Veil [250 : Ebm]</li><li>Teacher [124 : Db]</li><li>The Legend of Pat Nice [123 : Am]</li><li>Water (ODM Mix) [124 : Ab]</li></ul></li></ul> |
 
