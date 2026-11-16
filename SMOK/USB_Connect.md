@@ -30,4 +30,4 @@
 
 **If Zero has not mounted on Host, test has failed.**
 
-**Continue to [USB Troubleshooting]**
+**Continue to [USB Troubleshooting](https://github.com/drift-dj/zero-bugs/wiki/usb)**
